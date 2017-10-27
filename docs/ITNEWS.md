@@ -1,3 +1,4 @@
 IT News web sites:
 -------
-(https://hackernoon.com)
+- [HackerNoon](https://hackernoon.com)
+- [DZone](https://dzone.com)
