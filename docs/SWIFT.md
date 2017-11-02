@@ -6,6 +6,7 @@ Swift List of Resourcs
 - [How to implement two way binding with Swift?](https://stackoverflow.com/questions/33973446/how-to-implement-two-way-binding-with-swift)
 
 # Swift Resources
+- [How to use pull to refresh in swift](https://stackoverflow.com/questions/24475792/how-to-use-pull-to-refresh-in-swift)
 - [Solving the binding problem with Swift 2015](https://docs.google.com/spreadsheets/d/1hEKJHNxoSoJ1Prqsq6PTAKChYR2RxKLalSYzzJxqw-Q/edit#gid=671781101)
 - [hide tab bar in view with push](https://stackoverflow.com/questions/26780719/hide-tab-bar-in-view-with-push)
 - [delete a row in table view in swift](https://stackoverflow.com/questions/29294099/delete-a-row-in-table-view-in-swift)
