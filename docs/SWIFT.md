@@ -6,6 +6,9 @@ Swift List of Resourcs
 - [How to implement two way binding with Swift?](https://stackoverflow.com/questions/33973446/how-to-implement-two-way-binding-with-swift)
 
 # Swift Resources
+- [How to Implement Collapsible Table Section in iOS](https://medium.com/@jeantimex/how-to-implement-collapsible-table-section-in-ios-142e0c6266fd)
+- [segmented control](https://stackoverflow.com/questions/27956353/swift-segmented-control-switch-multiple-views)
+- [Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)
 - [How to use pull to refresh in swift](https://stackoverflow.com/questions/24475792/how-to-use-pull-to-refresh-in-swift)
 - [Solving the binding problem with Swift 2015](https://docs.google.com/spreadsheets/d/1hEKJHNxoSoJ1Prqsq6PTAKChYR2RxKLalSYzzJxqw-Q/edit#gid=671781101)
 - [hide tab bar in view with push](https://stackoverflow.com/questions/26780719/hide-tab-bar-in-view-with-push)
