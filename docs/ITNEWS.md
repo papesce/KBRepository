@@ -1,3 +1,7 @@
+# IT News
+
+- [Startups: The 50 industry disruptors you need to know now](https://www.linkedin.com/pulse/linkedin-top-companies-startups-50-industry-disruptors-daniel-roth)
+
 IT News web sites:
 -------
 - [HackerNoon](https://hackernoon.com)
@@ -10,4 +14,5 @@ Blogs
 - [Coding Explorer Blog](http://www.codingexplorer.com)
 - [Use your Loaf Blog](https://useyourloaf.com)
 - [Real Life Programming](https://reallifeprogramming.com)
+- [Crossover](https://medium.com/the-crossover-cast)
 

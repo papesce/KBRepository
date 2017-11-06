@@ -4,6 +4,7 @@ Swift List of Resourcs
 #For Review
 - [Bond Tutorial: Bindings in Swift](https://www.raywenderlich.com/149753/bond-tutorial-bindings-swift)
 - [How to implement two way binding with Swift?](https://stackoverflow.com/questions/33973446/how-to-implement-two-way-binding-with-swift)
+- [Redux for Swift](https://github.com/ReSwift/ReSwift)
 
 # Swift Resources
 - [How to Implement Collapsible Table Section in iOS](https://medium.com/@jeantimex/how-to-implement-collapsible-table-section-in-ios-142e0c6266fd)

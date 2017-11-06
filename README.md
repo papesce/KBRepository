@@ -9,6 +9,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Swift](docs/SWIFT.md)
 - [Data Bases](docs/DB.md)
 - [Mobile](docs/MOBILE.md)
+- [Git](docs/GIT.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
@@ -19,9 +20,12 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Online Learning](docs/ONLINE_LEARNING.md)
 - [Online Testing](docs/ONLINE_TESTING)
 - [ITNews](docs/ITNEWS.md)
+- [List of IDEs](docs/IDE.md)
 
 ## Project Management
 - [PM tools](docs/PM.md)
+
+
 
 
 - [RM basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)

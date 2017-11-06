@@ -8,4 +8,4 @@
 
 # Agile
 
-
+- [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
