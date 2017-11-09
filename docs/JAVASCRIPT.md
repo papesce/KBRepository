@@ -9,7 +9,12 @@
 - [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
+## Style
+- [5 JavaScript Style Guides ](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
+
 ## Other
 - [Enable ES7 in VSCode](https://stackoverflow.com/questions/29953293/is-there-a-way-to-turn-on-es6-es7-syntax-support-in-vscode)
 
 - [Array containing 1..n](https://stackoverflow.com/questions/3746725/create-a-javascript-array-containing-1-n)
+
+- [three dots as part of a parameter definition](https://stackoverflow.com/questions/11690917/what-do-three-dots-indicate-when-used-as-a-part-of-parameters-during-metho)
