@@ -12,6 +12,7 @@ IT News web sites:
 - [HackerNoon](https://hackernoon.com)
 - [DZone](https://dzone.com)
 - [Medium](https://medium.com)
+- [News combinator](https://news.ycombinator.com)
 
 
 Blogs

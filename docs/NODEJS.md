@@ -10,6 +10,8 @@ NodeJS resources:
 - [Using Docker for node microservices](https://community.risingstack.com/using-docker-swarm-for-deploying-nodejs-microservices/)
 - [Dont transpile javascript for node](http://vancelucas.com/blog/dont-transpile-javascript-for-node-js/)
 
+# Microservices
+- [Node Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
 
 # API Documentation
 - [Swagger](https://swagger.io)

@@ -26,3 +26,13 @@ Swift List of Resourcs
 - [Implementing delegates in Swift, step by step.](https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef)
 - [Inmutable models in Pinterest](https://medium.com/@Pinterest_Engineering/immutable-models-and-data-consistency-in-our-ios-app-d10e248bfef8)
 
+
+# Json
+- [Mapping json to swift class](https://stackoverflow.com/questions/29749652/mapping-a-json-object-to-a-swift-class-struct)
+- [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)
+
+# Tools
+- [Swift UI Color Picker](https://www.ralfebert.de/snippets/ios/swift-uicolor-picker/)
+- [Cocoapods](https://cocoapods.org)
+- [Fix build erro no such module](https://stackoverflow.com/questions/36336476/always-get-build-error-no-such-module-alamofire)
+

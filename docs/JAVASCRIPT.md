@@ -3,7 +3,7 @@
 - [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/) 
 
 - [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
-
+- [Study plan to cure javascript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 ## Functions
 - [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
 - [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
