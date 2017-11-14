@@ -7,6 +7,7 @@ Swift List of Resourcs
 - [Redux for Swift](https://github.com/ReSwift/ReSwift)
 
 # Swift Resources
+- [Switch Container Views](https://spin.atomicobject.com/2015/09/02/switch-container-views/)
 - [How to Implement Collapsible Table Section in iOS](https://medium.com/@jeantimex/how-to-implement-collapsible-table-section-in-ios-142e0c6266fd)
 - [segmented control](https://stackoverflow.com/questions/27956353/swift-segmented-control-switch-multiple-views)
 - [Container View Controllers](https://cocoacasts.com/managing-view-controllers-with-container-view-controllers/)

@@ -9,6 +9,8 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React JS Cheatsheet](https://reddit.com/r/reactjs/comments/7bf8wa/reactjs_cheatsheet/gi)
 
 ## General
+- [Smart and Dumb Components](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
+
 - [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 - [How to use the FlatList Component — React Native Basics](https://medium.com/react-native-development/how-to-use-the-flatlist-component-react-native-basics-92c482816fe6)
 - [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
@@ -18,6 +20,9 @@ Links related with [React](https://github.com/facebook/react.git)
 
 ## React Patterns
 - [React Patterns](https://reddit.com/r/reactjs/comments/7bq6yr/learn_standard_react_coding_patterns_really/)
+- [React Component Patterns](https://github.com/markerikson/react-redux-links/blob/master/react-component-patterns.md)
+- [React Component Patterns](https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82)
+- [React Component Patterns](https://www.reddit.com/r/reactjs/comments/793q0m/react_component_patterns_stateful_x_stateless/)
 
 ## Advanced
 - [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
@@ -26,10 +31,12 @@ Links related with [React](https://github.com/facebook/react.git)
 - [HOC](https://reactjs.org/docs/higher-order-components.html)
 
 ## Redux
+- [Official documentation](https://github.com/reactjs/redux)
+- [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 - [Redux-Persist](https://github.com/rt2zz/redux-persist)
 - [Server Rendering](https://redux.js.org/docs/recipes/ServerRendering.html)
 - [Getting Started with Universal Render](http://blog.jakoblind.no/getting-started-with-universal-rendering/)
-
+- [Free Redux tutorial](https://egghead.io/courses/getting-started-with-redux)
 
 ## TDD
 - [Jest](https://facebook.github.io/jest/)
@@ -48,6 +55,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [ESLint plugin react](https://www.npmjs.com/package/eslint-plugin-react)
 
 ## Git Samples
+- [Sites using react](https://github.com/facebook/react/wiki/sites-using-react)
 - [Recipe-box](https://github.com/Kallaway/recipe-box)
 - [Samples from Learning React Book](https://github.com/MoonHighway/learning-react)
 - [Twitter's new mobile site is using React, Redux and React-Router](https://www.reddit.com/r/reactjs/comments/4iei7s/twitters_new_mobile_site_is_using_react_redux_and/)
@@ -59,6 +67,8 @@ Links related with [React](https://github.com/facebook/react.git)
 ## Tutorials
 - [React-Redux-Node](https://reddit.com/r/reactjs/comments/7bwfy6/ive_made_a_reactreduxnodejs_api_tutorial_for/)
 
+## Typescript
+- [facebook alternative to typescript](https://flow.org)
 
 ## React Native
 - [React Native Sample App]( https://reddit.com/r/reactjs/comments/7bjzr0/a_hacker_news_reader_built_in_react_native/)
@@ -85,3 +95,21 @@ Links related with [React](https://github.com/facebook/react.git)
  - [Codementor](https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1) 
  - [Toptal](https://www.toptal.com/react/interview-questions)
 
+##Hints
+- [React hints](https://devhints.io/react)
+
+
+# starters
+- [Starters, componentsn and more](https://www.javascriptstuff.com)
+- [Awesome Redux boilerplates](https://github.com/xgrommx/awesome-redux#boilerplate)
+
+#Talks
+ - [React Talks](http://meetupfeed.com/85-react-talks-recorded-meetups-conferences-q2-first-issue-meetupfeeds-react-talks-series/)
+
+
+ # Modeling with Components
+ - [Smart and dumb components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
+
+ #Themes
+ - [Material UI](http://www.material-ui.com/)

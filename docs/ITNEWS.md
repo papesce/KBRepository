@@ -23,4 +23,7 @@ Blogs
 - [Crossover](https://medium.com/the-crossover-cast)
 
 
+# Hints
+- [Frontend Cheatsheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+- [Devhints](https://devhints.io/es6)
 
