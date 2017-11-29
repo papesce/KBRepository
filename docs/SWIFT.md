@@ -26,7 +26,7 @@ Swift List of Resourcs
 - [How to send values to a parent view controller in Swift](https://stackoverflow.com/questions/35439041/how-to-send-values-to-a-parent-view-controller-in-swift)
 - [Implementing delegates in Swift, step by step.](https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef)
 - [Inmutable models in Pinterest](https://medium.com/@Pinterest_Engineering/immutable-models-and-data-consistency-in-our-ios-app-d10e248bfef8)
-
+- [Enviroment for production](http://limlab.io/swift/2016/02/22/xcode-working-with-multiple-environments.html)
 
 # Json
 - [Mapping json to swift class](https://stackoverflow.com/questions/29749652/mapping-a-json-object-to-a-swift-class-struct)

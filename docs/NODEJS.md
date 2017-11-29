@@ -9,6 +9,8 @@ NodeJS resources:
 - [Example Node Server w/ Babel](https://github.com/babel/example-node-server) This shows how to run monitor deploy and test npm
 - [Using Docker for node microservices](https://community.risingstack.com/using-docker-swarm-for-deploying-nodejs-microservices/)
 - [Dont transpile javascript for node](http://vancelucas.com/blog/dont-transpile-javascript-for-node-js/)
+- [RisingStack](https://risingstack.com)
+- [Node oficial documentation](https://nodejs.org/api/index.html)
 
 # Microservices
 - [Node Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
@@ -17,6 +19,7 @@ NodeJS resources:
 - [Swagger](https://swagger.io)
 # Persistence
 - [Realm JavaScript ](https://realm.io/docs/javascript/latest/)
+
 
 
 #Heroku

@@ -10,6 +10,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Data Bases](docs/DB.md)
 - [Mobile](docs/MOBILE.md)
 - [Git](docs/GIT.md)
+- [Sketchers](docs/SKETCHER.md)
+- [Typescript](docs/TYPESCRIPT.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
@@ -21,9 +23,12 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Online Testing](docs/ONLINE_TESTING)
 - [ITNews](docs/ITNEWS.md)
 - [List of IDEs](docs/IDE.md)
+- [Certifications](docs/CERTIFICATIONS.md)
 
 ## Project Management
 - [PM tools](docs/PM.md)
+
+
 
 
 

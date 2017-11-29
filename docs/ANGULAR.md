@@ -7,3 +7,7 @@ Angular Links
 
 
 - [Nativescript](https://www.nativescript.org)
+
+- [Redux in angular](https://alligator.io/angular/ngrx-entity)
+
+- [Angular2 uuid]()
