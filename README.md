@@ -12,6 +12,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Git](docs/GIT.md)
 - [Sketchers](docs/SKETCHER.md)
 - [Typescript](docs/TYPESCRIPT.md)
+- [Reactive](docs/REACTIVE.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
@@ -20,16 +21,17 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 ## News and Learning
 - [Comparison](docs/COMPARISON.md)
 - [Online Learning](docs/ONLINE_LEARNING.md)
-- [Online Testing](docs/ONLINE_TESTING)
+- [Online Testing](docs/ONLINE_TESTING.md)
 - [ITNews](docs/ITNEWS.md)
 - [List of IDEs](docs/IDE.md)
 - [Certifications](docs/CERTIFICATIONS.md)
+- [Architecture](docs/ARCHITECTURE.md)
 
 ## Project Management
 - [PM tools](docs/PM.md)
 
-
-
+## Reddit 
+- [Reddit List](REDDIT.md)
 
 
 

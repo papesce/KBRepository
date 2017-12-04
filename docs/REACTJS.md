@@ -82,6 +82,7 @@ http://lucasmreis.github.io/blog/simple-react-patterns/
 
 ## Typescript
 - [facebook alternative to typescript](https://flow.org)
+- [React with typescript microsoft](https://github.com/Microsoft/TypeScript-React-Starter)
 
 ## React Native
 - [React Native Sample App]( https://reddit.com/r/reactjs/comments/7bjzr0/a_hacker_news_reader_built_in_react_native/)
@@ -133,8 +134,7 @@ Amazon
 [paypal]
 
 
-# rx-js
-[Reactive redux state with rxjs](https://ivanjov.com/reactive-redux-state-with-rxjs/)
+
 
  # old
  - [React-router-auth](https://github.com/kauffecup/spotify-react-router-auth)

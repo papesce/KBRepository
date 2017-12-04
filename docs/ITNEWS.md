@@ -4,7 +4,8 @@
 ## Assorted News
 - [Startups: The 50 industry disruptors you need to know now](https://www.linkedin.com/pulse/linkedin-top-companies-startups-50-industry-disruptors-daniel-roth)
 - [5-ways-to-be-a-better-freelancer](https://medium.com/swlh/5-ways-to-be-a-better-freelancer-f451ca91b828)
-
+- [stdlib and mongodb](https://hackernoon.com/build-a-serverless-todo-list-in-5-minutes-with-stdlib-and-mongodb-1240e92f5cfb)
+- [Quickly generate rest api](https://www.reddit.com/r/node/comments/7g0uj3/quickly_generate_rest_apis_with_expressjs_and/)
 
 
 IT News web sites:
