@@ -2,13 +2,17 @@ React Links
 ----
 Links related with [React](https://github.com/facebook/react.git)
 
-## To Review
+## General
+- [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
+- [Learning react in christmas](https://react.christmas/)
+- [React Boilerplate](https://www.reddit.com/r/reactjs/comments/7hcpy7/made_a_new_react_boilerplate_while_learning/)
+- [Memoizing and reselect]( https://reddit.com/r/reactjs/comments/7gwkds/help_memoizing_state/)
+- [Pinterest architecture](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 - [React JS top 10 articles of the month](https://reactjs.org/docs/static-type-checking.html)
 - [Server side rendering](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 - [Securing a React Web App With Server-side Authentication](https://medium.appbase.io/securing-a-react-web-app-with-server-side-authentication-1b7c7dc55c16)
 - [React JS Cheatsheet](https://reddit.com/r/reactjs/comments/7bf8wa/reactjs_cheatsheet/gi)
 
-## General
 - [Smart and Dumb Components](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
 
 - [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
@@ -46,6 +50,7 @@ http://lucasmreis.github.io/blog/simple-react-patterns/
 - [Simplification for Reducers](https://www.npmjs.com/package/redux-action-reducer)
 - [Redux tutorial Free](https://egghead.io/courses/getting-started-with-redux)
 - [Redux actions](http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html)
+- [Redux-ecosystem links](https://github.com/markerikson/redux-ecosystem-links)
 
 ## TDD
 - [Jest](https://facebook.github.io/jest/)

@@ -31,7 +31,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [PM tools](docs/PM.md)
 
 ## Reddit 
-- [Reddit List](REDDIT.md)
+- [Reddit List](docs/REDDIT.md)
 
 
 
