@@ -18,6 +18,7 @@
 - [React-node (heroku ready)](https://github.com/alanbsmith/react-node-example)
 
 #React-redux
+- [Perfect react starter](https://www.andrewhfarmer.com/starter-project/)
 - [React-Redux (heroku ready)](https://github.com/marcgarreau/redux-starter)
 - [React-Redux v2 (heroku ready)](https://github.com/marcgarreau/redux-starter-v2)
 - [React-Redux-Accelerator](https://github.com/marcgarreau/accelerator)
@@ -26,3 +27,8 @@
 
 #React native
 - [mirar un ecommercer style que me da una idea de lo	](https://strapmobile.com)
+
+
+# linters
+
+https://github.com/dustinspecker/awesome-eslint

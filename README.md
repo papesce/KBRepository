@@ -3,7 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)
-- [ReactJS](docs/REACTJS.md)
+- [ReactJS](docs/react/REACTJS.md)
 - [Angular](docs/ANGULAR.md)
 - [Javascript](docs/JAVASCRIPT.md)
 - [Swift](docs/SWIFT.md)

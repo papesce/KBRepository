@@ -2,7 +2,10 @@ React Links
 ----
 Links related with [React](https://github.com/facebook/react.git)
 
+-[Login](LOGIN.md)
+
 ## General
+- [Prevent bugs in large codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
 - [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
 - [Learning react in christmas](https://react.christmas/)
 - [React Boilerplate](https://www.reddit.com/r/reactjs/comments/7hcpy7/made_a_new_react_boilerplate_while_learning/)
