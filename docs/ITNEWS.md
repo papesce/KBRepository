@@ -19,6 +19,8 @@ IT News web sites:
 
 Blogs
 -----
+
+- [Netifly Blog](https://www.netlify.com/blog/)
 - [Coding Explorer Blog](http://www.codingexplorer.com)
 - [Use your Loaf Blog](https://useyourloaf.com)
 - [Real Life Programming](https://reallifeprogramming.com)

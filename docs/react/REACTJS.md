@@ -3,6 +3,9 @@ React Links
 Links related with [React](https://github.com/facebook/react.git)
 
 -[Login](LOGIN.md)
+themes.md
+forms.md
+debug.md
 
 ## General
 - [Prevent bugs in large codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)

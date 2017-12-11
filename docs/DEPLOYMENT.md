@@ -2,6 +2,9 @@ Web sites for deployment
 -----
 
 
+[Front end checklist](https://github.com/thedaviddias/Front-End-Checklist)
+[Netifly](https://app.netlify.com/account/sites)
+
 #Heroku
 - [Process Types and the Procfile](https://devcenter.heroku.com/articles/procfile)
 - [Running Apps Locally](https://devcenter.heroku.com/articles/heroku-local)

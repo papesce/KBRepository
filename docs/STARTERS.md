@@ -8,7 +8,8 @@
 #BMEAN
 - [Breeze](http://breeze.github.io/doc-samples/zza-mongo.html)
 
-#React
+#
+- [React Starter Projects](https://www.javascriptstuff.com/react-starter-projects/)
 - [React Starter Kit](https://github.com/kriasoft/react-starter-kit/blob/master/docs/getting-started.md)
 - [New Starter App Launches React Projects Fast](https://www.codefellows.org/blog/new-starter-app-launches-react-projects-fast/)
 - [React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app, all built in](https://github.com/coryhouse/react-slingshot)
@@ -32,3 +33,10 @@
 # linters
 
 https://github.com/dustinspecker/awesome-eslint
+
+# web generators
+[Top 10 web generators](https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/)
+[Static gen opensource](https://www.staticgen.com)
+[ROC](https://github.com/rocjs/roc)
+[Garsby Site generator](https://github.com/gatsbyjs/gatsby)
+[Gatsbyjs](https://www.gatsbyjs.org)
