@@ -10,7 +10,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Data Bases](docs/DB.md)
 - [Mobile](docs/MOBILE.md)
 - [Git](docs/GIT.md)
-- [Sketchers](docs/SKETCHER.md)
+- [Design](docs/DESIGN.md)
 - [Typescript](docs/TYPESCRIPT.md)
 - [Reactive](docs/REACTIVE.md)
 
@@ -32,7 +32,5 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Reddit 
 - [Reddit List](docs/REDDIT.md)
-
-
 
 - [RM basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)

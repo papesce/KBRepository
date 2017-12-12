@@ -3,11 +3,13 @@ React Links
 Links related with [React](https://github.com/facebook/react.git)
 
 -[Login](LOGIN.md)
-themes.md
-forms.md
-debug.md
+-[Themes](THEMES.md)
+-[Forms](FORMS.md)
+-[Debug](DEBUG.md)
+-[Redux](REDUX.md)
 
 ## General
+- [Recap 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Prevent bugs in large codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
 - [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
 - [Learning react in christmas](https://react.christmas/)
