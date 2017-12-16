@@ -11,7 +11,7 @@
 - [reactivex introduction](http://reactivex.io/rxjs/manual/overview.html#introduction)
 - [learn-rxjs book](https://www.gitbook.com/book/btroncone/learn-rxjs/details)
 - [Introduction to RX](http://www.introtorx.com/Content/v1.0.10621.0/00_Foreword.html)
-
+- [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
 
 ## Resources
 - [Learnign Resources](https://blog.niallconnaughton.com/2015/08/12/rx-learning-resources/)

@@ -12,11 +12,10 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Reactive](docs/REACTIVE.md)
 
 ## General
-- [react training](https://reacttraining.com/react-router/web/example/sidebar)
 
-- [11 react libraries 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
-- [10 react libraries 2017](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
-- [Recap 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
+- [11 react libraries you should know in 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
+- [Top 10 react libraries on github in 2017](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
+- [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Prevent bugs in large codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
 - [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
 - [Learning react in christmas](https://react.christmas/)
