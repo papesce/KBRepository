@@ -8,7 +8,7 @@
 - [Learn rx-js](https://www.learnrxjs.io)
 - [rx marbles](http://rxmarbles.com)
 - [reactivex introduction](http://reactivex.io/rxjs/manual/overview.html#introduction)
-- [learn-rxjs book] (https://www.gitbook.com/book/btroncone/learn-rxjs/details)
+- [learn-rxjs book](https://www.gitbook.com/book/btroncone/learn-rxjs/details)
 - [Introduction to RX](http://www.introtorx.com/Content/v1.0.10621.0/00_Foreword.html)
 
 
@@ -16,8 +16,8 @@
 - [Learnign Resources](https://blog.niallconnaughton.com/2015/08/12/rx-learning-resources/)
 - [How to debug](https://staltz.com/how-to-debug-rxjs-code.html)
 
-#Sample real world app
+# Sample real world app
 - [Reactive Trader](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 
-#Tools
+# Tools
 - [Animated cards](http://reactive.how)

@@ -38,3 +38,5 @@ Swift List of Resourcs
 - [Fix build erro no such module](https://stackoverflow.com/questions/36336476/always-get-build-error-no-such-module-alamofire)
 
 - [Activity indicator](https://stackoverflow.com/questions/45700293/activity-indicator-while-tableview-loads)
+
+- [Show gif](https://github.com/kiritmodi2702/GIF-Swift)

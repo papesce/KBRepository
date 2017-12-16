@@ -1,6 +1,8 @@
 Web sites that provide themes
 ----
 
+- [Floating Header](https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c)
+
 - [The theme isle](https://themeisle.com)
 - [Colorlib](https://colorlib.com)
 - [40 best wordpress free themes](https://www.codeinwp.com/blog/best-free-wordpress-themes/)

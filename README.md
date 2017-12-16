@@ -22,7 +22,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Comparison](docs/COMPARISON.md)
 - [Online Learning](docs/ONLINE_LEARNING.md)
 - [Online Testing](docs/ONLINE_TESTING.md)
-- [ITNews](docs/ITNEWS.md)
+- [IT News](docs/ITNEWS.md)
 - [List of IDEs](docs/IDE.md)
 - [Certifications](docs/CERTIFICATIONS.md)
 - [Architecture](docs/ARCHITECTURE.md)
@@ -34,3 +34,6 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Reddit List](docs/REDDIT.md)
 
 - [RM basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+## Generic
+- [Authentication](docs/AUTH.md) 

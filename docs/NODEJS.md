@@ -1,6 +1,7 @@
 NodeJS resources:
 -----
 
+- 
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices)
 
 - [Server.js alternative to Express](https://serverjs.io)
@@ -13,6 +14,7 @@ NodeJS resources:
 - [Node oficial documentation](https://nodejs.org/api/index.html)
 
 # Microservices
+- [Building a microservice with MOngodb and docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
 - [Node Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
 
 # API Documentation

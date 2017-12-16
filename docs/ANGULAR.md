@@ -11,8 +11,12 @@ Angular Links
 
 - [Nativescript](https://www.nativescript.org)
 
+
+
 - [Redux in angular](https://alligator.io/angular/ngrx-entity)
 
 - [Angular2 uuid]()
 
 
+## Redux 
+[ngrx generator](https://medium.com/@kmathy/ngx-reduxor-do-you-use-ngrx-in-your-angular-app-check-this-generator-b3386e7bf8bf) 

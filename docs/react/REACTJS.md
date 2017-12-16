@@ -7,8 +7,14 @@ Links related with [React](https://github.com/facebook/react.git)
 -[Forms](FORMS.md)
 -[Debug](DEBUG.md)
 -[Redux](REDUX.md)
+-[Performance](PERFORMANCE.md)
+-[Samples][SAMPLES.md]
 
 ## General
+- [react training](https://reacttraining.com/react-router/web/example/sidebar)
+
+- [11 react libraries 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
+- [10 react libraries 2017](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
 - [Recap 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Prevent bugs in large codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
 - [Practical intro to rx](https://blog.jonstodle.com/a-practical-intro-to-rx/)
@@ -32,6 +38,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Downshift components](https://github.com/paypal/downshift)
 
 ## React Patterns
+- [Recompose](https://github.com/acdlite/recompose)
 - [React Patterns](https://reddit.com/r/reactjs/comments/7bq6yr/learn_standard_react_coding_patterns_really/)
 - [React Component Patterns](https://github.com/markerikson/react-redux-links/blob/master/react-component-patterns.md)
 - [React Component Patterns](https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82)
@@ -142,7 +149,7 @@ http://lucasmreis.github.io/blog/simple-react-patterns/
 # Referents:
 [Spotify](https://github.com/spotify?page=2)
 Netflix
-Amazon
+[Amazon](https://github.com/Semantic-Org/Semantic-UI-React)
 [Pinterest](https://reddit.com/r/reactjs/comments/7ahzxp/how_pinterest_switched_their_template_rendering/)
 [paypal]
 
