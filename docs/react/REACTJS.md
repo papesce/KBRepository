@@ -2,14 +2,14 @@
 
 Links related with [React](https://github.com/facebook/react.git)
 
-- [Login](LOGIN.md)
-- [Themes](THEMES.md)
-- [Forms](FORMS.md)
-- [Debug](DEBUG.md)
-- [Redux](REDUX.md)
-- [Performance](PERFORMANCE.md)
-- [Samples][SAMPLES.md]
-- [Reactive](REACTIVE.md)
+- [Login](docs/LOGIN.md)
+- [Themes](docs/THEMES.md)
+- [Forms](docs/FORMS.md)
+- [Debug](docs/DEBUG.md)
+- [Redux](docs/REDUX.md)
+- [Performance](docs/PERFORMANCE.md)
+- [Samples][docs/SAMPLES.md]
+- [Reactive](docs/REACTIVE.md)
 
 ## General
 - [react training](https://reacttraining.com/react-router/web/example/sidebar)
