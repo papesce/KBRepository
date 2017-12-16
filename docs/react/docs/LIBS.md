@@ -1,5 +1,23 @@
-# Libraries
+# Libraries and Components
 
+## Components
+- [React-select](http://jedwatson.github.io/react-select/)
+- [Pinterest layout](https://github.com/tsuyoshiwada/react-stack-grid)
+- [React Content Loader](https://danilowoz.github.io/create-react-content-loader/)
+- [Pinterest Layout official](https://masonry.desandro.com)
+ - [GraphQL and Relay (facebook)]()
+ - [Falcor (netflix)]()
+
+## Paypal
+- [Downshift components](https://github.com/paypal/downshift)
+
+## Router
+- [Advanced React Router Concepts](https://reddit.com/r/reactjs/comments/7be0iv/advanced_react_router_concepts/)
+- [server bypas](https://stackoverflow.com/questions/46709770/reactjs-bypass-routing-to-allow-java-server-side-api-access#)
+
+## Forms for react
+- [Formik for react](https://github.com/jaredpalmer/formik/blob/master/README.md)
+- [Material-ui and redux-forms](https://redux-form.com/7.2.0/examples/material-ui/)
 
 ## Documentation
 react-styleguidist
