@@ -8,7 +8,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Debug](docs/DEBUG.md)
 - [Redux](docs/REDUX.md)
 - [Performance](docs/PERFORMANCE.md)
-- [Samples][docs/SAMPLES.md]
+- [Samples](docs/SAMPLES.md)
 - [Reactive](docs/REACTIVE.md)
 
 ## General

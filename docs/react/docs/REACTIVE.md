@@ -1,5 +1,6 @@
-# rx-js
+# Links related with reactive programming
 
+## rx-js
 
 - [Learn rxjs with a button](http://www.vincecampanale.com/blog/2017/05/24/learn-rxjs-with-a-button/)
 - [Reactive redux state with rxjs](https://ivanjov.com/reactive-redux-state-with-rxjs/)
@@ -12,12 +13,12 @@
 - [Introduction to RX](http://www.introtorx.com/Content/v1.0.10621.0/00_Foreword.html)
 
 
-# Resources
+## Resources
 - [Learnign Resources](https://blog.niallconnaughton.com/2015/08/12/rx-learning-resources/)
 - [How to debug](https://staltz.com/how-to-debug-rxjs-code.html)
 
-# Sample real world app
+## Sample real world app
 - [Reactive Trader](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 
-# Tools
+## Tools
 - [Animated cards](http://reactive.how)
