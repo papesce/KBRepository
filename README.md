@@ -8,10 +8,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Javascript](docs/JAVASCRIPT.md)
 - [Swift](docs/SWIFT.md)
 - [Data Bases](docs/DB.md)
-- [Mobile](docs/MOBILE.md)
 - [Git](docs/GIT.md)
 - [Design](docs/DESIGN.md)
-- [Typescript](docs/TYPESCRIPT.md)
 - [Reactive](docs/REACTIVE.md)
 
 ## Web construction 
