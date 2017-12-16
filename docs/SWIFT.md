@@ -1,12 +1,6 @@
-Swift List of Resourcs
------
+# Swift List of Resourcs
 
-#For Review
-- [Bond Tutorial: Bindings in Swift](https://www.raywenderlich.com/149753/bond-tutorial-bindings-swift)
-- [How to implement two way binding with Swift?](https://stackoverflow.com/questions/33973446/how-to-implement-two-way-binding-with-swift)
-- [Redux for Swift](https://github.com/ReSwift/ReSwift)
-
-# Swift Resources
+## Swift Resources
 - [Switch Container Views](https://spin.atomicobject.com/2015/09/02/switch-container-views/)
 - [How to Implement Collapsible Table Section in iOS](https://medium.com/@jeantimex/how-to-implement-collapsible-table-section-in-ios-142e0c6266fd)
 - [segmented control](https://stackoverflow.com/questions/27956353/swift-segmented-control-switch-multiple-views)
@@ -28,11 +22,15 @@ Swift List of Resourcs
 - [Inmutable models in Pinterest](https://medium.com/@Pinterest_Engineering/immutable-models-and-data-consistency-in-our-ios-app-d10e248bfef8)
 - [Enviroment for production](http://limlab.io/swift/2016/02/22/xcode-working-with-multiple-environments.html)
 
-# Json
+## Bindings
+- [Bond Tutorial: Bindings in Swift](https://www.raywenderlich.com/149753/bond-tutorial-bindings-swift)
+- [How to implement two way binding with Swift?](https://stackoverflow.com/questions/33973446/how-to-implement-two-way-binding-with-swift)
+
+## Json
 - [Mapping json to swift class](https://stackoverflow.com/questions/29749652/mapping-a-json-object-to-a-swift-class-struct)
 - [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)
 
-# Tools
+## Tools
 - [Swift UI Color Picker](https://www.ralfebert.de/snippets/ios/swift-uicolor-picker/)
 - [Cocoapods](https://cocoapods.org)
 - [Fix build erro no such module](https://stackoverflow.com/questions/36336476/always-get-build-error-no-such-module-alamofire)
@@ -40,3 +38,6 @@ Swift List of Resourcs
 - [Activity indicator](https://stackoverflow.com/questions/45700293/activity-indicator-while-tableview-loads)
 
 - [Show gif](https://github.com/kiritmodi2702/GIF-Swift)
+
+## Redux
+- [Redux for Swift](https://github.com/ReSwift/ReSwift)
