@@ -1,6 +1,7 @@
 
 # Redux Links
 
+[Redux vs MobX](https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
 # General
 - [Official documentation](https://github.com/reactjs/redux)
@@ -28,6 +29,7 @@
 
 ## State modeling
 - [Memoizing and reselect]( https://reddit.com/r/reactjs/comments/7gwkds/help_memoizing_state/) * 
+- [See sectuib abour data in redux](https://github.com/markerikson/react-redux-links)
 
 ## Testing
 - [Prevent bugs in large redux codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
