@@ -10,7 +10,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Data Bases](docs/DB.md)
 - [Git](docs/GIT.md)
 - [Design](docs/DESIGN.md)
-- [Reactive](docs/REACTIVE.md)
+
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
