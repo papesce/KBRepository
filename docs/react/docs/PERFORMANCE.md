@@ -7,7 +7,7 @@
 - [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
 - [Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/guides/jest.md)
 - [Testing React Components](https://reddit.com/r/reactjs/comments/7b5033/testing_react_components/)
-
+-[Testing React Components](https://medium.com/@skidding/testing-react-components-30516bc6a1b3)
 ## Debugguing
 - [Tips for debuguing](https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490)
 

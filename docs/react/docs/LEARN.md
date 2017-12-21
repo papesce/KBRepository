@@ -6,6 +6,8 @@
 - [React JS Cheatsheet](https://reddit.com/r/reactjs/comments/7bf8wa/reactjs_cheatsheet/gi)
 - [React hints](https://devhints.io/react)
 - [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+- [Curated list of links](https://github.com/markerikson/react-redux-links)
+- [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
 ## Tutorials
 - [React-Redux-Node](https://reddit.com/r/reactjs/comments/7bwfy6/ive_made_a_reactreduxnodejs_api_tutorial_for/)
