@@ -25,7 +25,7 @@
 
 
 ## React native
-- [mirar un ecommercer style que me da una idea de lo	](https://strapmobile.com)
+- [React Native Themes (ecommerce)](https://strapmobile.com)
 
 ## Articles 
 - [React Boilerplate Reddit](https://www.reddit.com/r/reactjs/comments/7hcpy7/made_a_new_react_boilerplate_while_learning/)
