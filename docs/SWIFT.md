@@ -32,6 +32,7 @@
 
 ## Tools
 
+- [Seven apps for swift development](https://cocoacasts.com/seven-applications-for-swift-developers/)
 - [Swift UI Color Picker](https://www.ralfebert.de/snippets/ios/swift-uicolor-picker/)
 - [Cocoapods](https://cocoapods.org)
 - [Fix build erro no such module](https://stackoverflow.com/questions/36336476/always-get-build-error-no-such-module-alamofire)

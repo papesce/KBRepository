@@ -20,7 +20,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Typescript](docs/TYPESCRIPT.md)
 
 ## General
-
+- [Top articles for the week dec 2017](https://levelup.gitconnected.com/top-programming-articles-of-the-week-c8d4f086427)
 - [11 react libraries you should know in 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
 - [Top 10 react libraries on github in 2017](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)

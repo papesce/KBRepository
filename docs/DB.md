@@ -9,6 +9,7 @@
 
 - [Data Model Examples and Patterns](https://docs.mongodb.com/manual/applications/data-models/)
 - [MognoDB Schema design by example](https://www.slideshare.net/mongodb/schema-design-by-example)
+- [Install MongoDB in osx](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
 ## Redis
 
