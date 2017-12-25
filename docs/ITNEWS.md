@@ -1,6 +1,9 @@
 # IT News
 
 
+## Learn to Code
+- [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
+
 ## Assorted News
 - [WPA the future](https://medium.freecodecamp.org/why-progressive-web-apps-are-the-future-of-web-development-13db7dd5f640?source=email-5d1379baee2b-1512556836812-digest.reader------1-49&sectionName=topic)
 - [Startups: The 50 industry disruptors you need to know now](https://www.linkedin.com/pulse/linkedin-top-companies-startups-50-industry-disruptors-daniel-roth)
