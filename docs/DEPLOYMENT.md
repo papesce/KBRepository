@@ -20,4 +20,9 @@
 - [Hostinger](https://www.hostinger.com.ar/hostinger)
 
 ## Firebase
-[Firebase](https://console.firebase.google.com/u/0/project/balanced-life-4a8c7/database/data)
+- [Firebase](https://console.firebase.google.com/u/0/project/balanced-life-4a8c7/database/data)
+
+
+## Contineuos Integration
+- [Travis](https://travis-ci.org/first_sync)
+- [CI with Travis](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)

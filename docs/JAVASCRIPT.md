@@ -16,6 +16,7 @@
 - [5 JavaScript Style Guides ](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
 
 ## Learn 
+- [Snippets](https://codetogo.io)
 - [Javascript Roadmap](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 
 

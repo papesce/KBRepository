@@ -1,5 +1,8 @@
 # Learn React
 
+## Cheatsheets
+- [Cheetsheets](https://devhints.io)
+
 
 ## General
  - [What do you use combined with ReactJS](https://www.reddit.com/r/reactjs/comments/7jvq6b/what_do_you_use_combined_with_reactjs/) 
@@ -23,5 +26,7 @@
 ## Design Principles
 - [Smart and Dumb Components](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
 - [Smart and dumb components (abramov)](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-
 - [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
+
+## Books
+- [Free Dev Books](https://devfreebooks.github.io)

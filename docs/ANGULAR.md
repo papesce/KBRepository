@@ -13,5 +13,8 @@
 
 - [Service Worker](https://blog.angular-university.io/angular-service-worker/)
 
+## SSR
+- [Angular Server side Rednering](https://medium.com/@hamedbaatour/angular-5-server-side-rendering-with-firebase-step-by-step-guide-ec5f4d8ef38b)
+
 ## Redux 
 - [ngrx generator](https://medium.com/@kmathy/ngx-reduxor-do-you-use-ngrx-in-your-angular-app-check-this-generator-b3386e7bf8bf) 

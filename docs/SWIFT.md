@@ -1,6 +1,7 @@
 # Swift List of Resourcs
 
 ## Swift Resources
+- [CollapsibleTableViewSection](https://github.com/Stan-Ost/TableViewWithCollapsibleSections)
 - [Switch Container Views](https://spin.atomicobject.com/2015/09/02/switch-container-views/)
 - [How to Implement Collapsible Table Section in iOS](https://medium.com/@jeantimex/how-to-implement-collapsible-table-section-in-ios-142e0c6266fd)
 - [segmented control](https://stackoverflow.com/questions/27956353/swift-segmented-control-switch-multiple-views)
@@ -38,6 +39,9 @@
 - [Fix build erro no such module](https://stackoverflow.com/questions/36336476/always-get-build-error-no-such-module-alamofire)
 - [Activity indicator](https://stackoverflow.com/questions/45700293/activity-indicator-while-tableview-loads)
 - [Show gif](https://github.com/kiritmodi2702/GIF-Swift)
+
+## Deployment
+- [Xcode targets](https://www.appcoda.com/using-xcode-targets/)
 
 ## Redux
 - [Redux for Swift](https://github.com/ReSwift/ReSwift)

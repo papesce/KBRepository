@@ -1,11 +1,13 @@
 Online Learning
 ----------
 
+## General
+- [Rapid API marketplace](https://rapidapi.com)
 - [18000 Curated Tutorials](https://hacksource.xyz)
 - [SlideShare (linkedin)](https://www.slideshare.net)
 - [Edge Coders](https://edgecoders.com)
 
-#Coding algoritms
+## Coding algoritms
 -----
 - [Leetcode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)

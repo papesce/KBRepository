@@ -10,7 +10,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Data Bases](docs/DB.md)
 - [Git](docs/GIT.md)
 - [Design](docs/DESIGN.md)
-
+- [Career](docs.CAREER.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
@@ -30,8 +30,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Reddit 
 - [Reddit List](docs/REDDIT.md)
-
 - [RM basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ## Generic
 - [Authentication](docs/AUTH.md) 
+- [MD Cheatsheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
