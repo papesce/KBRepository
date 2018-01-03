@@ -7,6 +7,7 @@
 - [Pinterest Layout official](https://masonry.desandro.com)
  - [GraphQL and Relay (facebook)]()
  - [Falcor (netflix)]()
+- [Drag and drop library](https://www.reddit.com/r/reactjs/comments/7moqgr/reactdragtastic_a_simple_drag_and_drop_library/)
 
 ## Paypal
 - [Downshift components](https://github.com/paypal/downshift)
@@ -18,6 +19,7 @@
 ## Forms for react
 - [Formik for react](https://github.com/jaredpalmer/formik/blob/master/README.md)
 - [Material-ui and redux-forms](https://redux-form.com/7.2.0/examples/material-ui/)
+- [Angular like reactive forms in React](https://www.reddit.com/r/reactnative/comments/7m9nir/angular_like_reactive_forms_in_react/)
 
 ## Documentation
 react-styleguidist

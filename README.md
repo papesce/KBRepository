@@ -33,5 +33,10 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [RM basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ## Generic
+- [Free Resources for developers](https://medium.com/dvlprstash/free-resources-for-developers-dec-2017-d23eddd83f5)
 - [Authentication](docs/AUTH.md) 
 - [MD Cheatsheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
+
+
+## Machine Learning
+- [Machine Learning Aribnb](https://www.hpe.com/us/en/insights/articles/podcast-how-airbnb-is-pushing-the-limits-of-machine-learning-1712.html)

@@ -26,3 +26,6 @@
 - [Array containing 1..n](https://stackoverflow.com/questions/3746725/create-a-javascript-array-containing-1-n)
 
 - [three dots as part of a parameter definition](https://stackoverflow.com/questions/11690917/what-do-three-dots-indicate-when-used-as-a-part-of-parameters-during-metho)
+
+## Obfuscator
+- [Obfuscator](https://www.reddit.com/r/typescript/comments/7nf5y3/powerfull_javascript_obfuscator_written_on/)

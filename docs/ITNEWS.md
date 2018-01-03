@@ -2,6 +2,7 @@
 
 ## Trends
 - [2018 trends](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
+- [Frontend 2017 the important parts](https://blog.logrocket.com/frontend-in-2017-the-important-parts-4548d085977f)
 
 ## Learn to Code
 - [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)

@@ -5,12 +5,17 @@
 
 
 ## General
+ - [Most popular links of 2017](https://medium.com/dailyjs/the-most-popular-react-links-of-2017-f6e4a2c43628)
+ - [Dive in and learn react](https://www.reddit.com/r/reactjs/comments/7nnpum/dive_in_and_learn_react_from_scratch_learn/)
  - [What do you use combined with ReactJS](https://www.reddit.com/r/reactjs/comments/7jvq6b/what_do_you_use_combined_with_reactjs/) 
 - [React JS Cheatsheet](https://reddit.com/r/reactjs/comments/7bf8wa/reactjs_cheatsheet/gi)
 - [React hints](https://devhints.io/react)
 - [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 - [Curated list of links](https://github.com/markerikson/react-redux-links)
 - [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
+
+## Advanced
+- [React Fundamentals](https://www.reddit.com/r/reactjs/comments/7mlh41/i_have_an_understanding_of_react_fundamentals_now/)
 
 ## Tutorials
 - [React-Redux-Node](https://reddit.com/r/reactjs/comments/7bwfy6/ive_made_a_reactreduxnodejs_api_tutorial_for/)

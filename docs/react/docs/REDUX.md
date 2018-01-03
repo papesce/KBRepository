@@ -17,6 +17,7 @@
 
 
 ## Learning
+- [Configure redux](https://www.reddit.com/r/reactjs/comments/7nf63f/configure_redux_to_createreactapp/)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux#boilerplate)
 - [Free Redux tutorial](https://egghead.io/courses/getting-started-with-redux) (dan abramov videos)
 - [react router redux training](https://reacttraining.com/react-router/web/example/sidebar)

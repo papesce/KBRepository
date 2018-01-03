@@ -1,6 +1,9 @@
 # Samples and demos
 
 ## Projects
+
+- [LWJGL Sample](https://github.com/LWJGL/lwjgl3-www)
+- [Production Level Example](https://www.reddit.com/r/reactjs/comments/7mv0k9/are_there_any_good_production_level_examples_open/)
 - [Spotify client](https://reddit.com/r/reactjs/comments/7j42ov/a_homemade_spotify_web_client_made_with_react/)
 - [TODO app with synchronization](https://github.com/laurent22/joplin?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Dev Tool for creating components](https://github.com/react-cosmos/react-cosmos?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -9,6 +12,9 @@
 - [Trello Clone]( https://reddit.com/r/reactjs/comments/7c25y9/criticise_my_code_a_simple_trello_clone_built/)
 - [Ecomerce basica](https://github.com/yhagio/ecommerce-front)
 - [React-router-auth](https://github.com/kauffecup/spotify-react-router-auth)
+- [Chat Bur React](https://github.com/KieSun/Chat-Buy-React/blob/master/README-EN.md)
+- [Demo movie app](https://www.reddit.com/r/reactjs/comments/7mcjie/code_review_can_i_get_some_feedback_on_my_app_and/) 
+- [Slot Machine](https://codepen.io/antibland/details/ypagZd/)
 
 ## List of Projects
 -[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)

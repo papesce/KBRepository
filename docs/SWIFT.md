@@ -1,5 +1,9 @@
 # Swift List of Resourcs
 
+## Interviwe
+
+- [50 ios interview questions and answers](https://www.reddit.com/r/iOSProgramming/comments/7npdor/50_ios_interview_questions_and_answers/)
+
 ## Swift Resources
 - [CollapsibleTableViewSection](https://github.com/Stan-Ost/TableViewWithCollapsibleSections)
 - [Switch Container Views](https://spin.atomicobject.com/2015/09/02/switch-container-views/)
