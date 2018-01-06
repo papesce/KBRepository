@@ -2,6 +2,7 @@
 
 
 ## General
+- [20 Amazong opensource node projects for 2018](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 - [Most popular tutorials 2017](https://blog.risingstack.com/the-most-popular-node-js-tutorials-of-2017/)
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices)
 - [Server.js alternative to Express](https://serverjs.io)
@@ -14,7 +15,12 @@
 - [Node oficial documentation](https://nodejs.org/api/index.html)
 - [e-commerce](https://www.reddit.com/r/node/comments/7jxw6m/ecommerce_with_node/)
 
+
+## Tutorial
+- [Node with typesript](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
+
 ## Microservices
+- [Microservices](https://www.reddit.com/r/node/comments/7m4twc/am_i_understanding_how_to_handle_data_in/)
 - [Building a microservice with Mongodb and Docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
 - [Node Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
 

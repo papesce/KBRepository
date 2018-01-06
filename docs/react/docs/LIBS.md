@@ -1,5 +1,7 @@
 # Libraries and Components
 
+## General
+- [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 ## Components
 - [React-select](http://jedwatson.github.io/react-select/)
 - [Pinterest layout](https://github.com/tsuyoshiwada/react-stack-grid)

@@ -40,3 +40,4 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Machine Learning
 - [Machine Learning Aribnb](https://www.hpe.com/us/en/insights/articles/podcast-how-airbnb-is-pushing-the-limits-of-machine-learning-1712.html)
+- [30 amazing ML projects for 2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
