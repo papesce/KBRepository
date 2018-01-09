@@ -20,6 +20,7 @@
 
 ## Forms for react
 - [Formik for react](https://github.com/jaredpalmer/formik/blob/master/README.md)
+- [Reduxform is dead](https://www.reddit.com/r/reactjs/comments/7p3ux7/reduxform_is_dead/)
 - [Material-ui and redux-forms](https://redux-form.com/7.2.0/examples/material-ui/)
 - [Angular like reactive forms in React](https://www.reddit.com/r/reactnative/comments/7m9nir/angular_like_reactive_forms_in_react/)
 

@@ -34,6 +34,8 @@
 - [Smart and Dumb Components](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
 - [Smart and dumb components (abramov)](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
+- [Best Practices](https://www.reddit.com/r/reactjs/comments/7p53dm/what_is_the_best_source_to_react_and_the/)
+
 
 ## Books
 - [Free Dev Books](https://devfreebooks.github.io)

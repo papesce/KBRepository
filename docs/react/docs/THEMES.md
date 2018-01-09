@@ -8,6 +8,8 @@
 - [Beatiful components for your next project](https://www.reddit.com/r/reactjs/comments/7p1awg/beautiful_react_components_for_your_next_project/)
 
 ## UIToolkits
+- [Reactive Search](https://github.com/appbaseio/reactivesearch)
+- [AppBaseIo Components](https://github.com/appbaseio/playground)
 - [Semantic-UI](https://react.semantic-ui.com/)
 - [Prime React](https://www.primefaces.org/primereact/#/setup)
 - [Native Base](https://nativebase.io/kitchen-sink-app)
