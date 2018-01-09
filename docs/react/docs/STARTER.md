@@ -1,5 +1,8 @@
 # Starters for React
 
+## cross platform
+- [reactxp (microsoft)](https://microsoft.github.io/reactxp/docs/getting-started.html)
+
 ## Project Structure
 - [How to organize react files](https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - [React-Redux-TS boilerplate](https://www.reddit.com/r/node/comments/7nscqb/wip_reactreduxts_boilerplate_feedback_welcome/)

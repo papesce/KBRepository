@@ -2,6 +2,7 @@ Online Learning
 ----------
 
 ## General
+- [Reading list to keep up-to-date](https://medium.com/@thangtp/week-1-reading-list-to-keep-up-to-date-with-javascript-python-devops-cloud-serverless-1f5558128f3a)
 - [Top 66 Resources for developers 2017](https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d)
 - [600 Free courses](https://medium.freecodecamp.org/600-free-online-programming-computer-science-courses-you-can-start-in-january-3d4b1ed473aa)
 - [Rapid API marketplace](https://rapidapi.com)

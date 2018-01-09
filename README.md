@@ -36,7 +36,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Free Resources for developers](https://medium.com/dvlprstash/free-resources-for-developers-dec-2017-d23eddd83f5)
 - [Authentication](docs/AUTH.md) 
 - [MD Cheatsheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
-
+- [webap for github](https://www.reddit.com/r/webdev/comments/7ofxir/my_buddy_built_a_webapp_to_make_looking_for/)
 
 ## Machine Learning
 - [Machine Learning Aribnb](https://www.hpe.com/us/en/insights/articles/podcast-how-airbnb-is-pushing-the-limits-of-machine-learning-1712.html)

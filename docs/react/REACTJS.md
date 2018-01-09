@@ -43,6 +43,9 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React refs](https://hackernoon.com/refs-in-react-all-you-need-to-know-fb9c9e2aeb81)
 - [HOC](https://reactjs.org/docs/higher-order-components.html)
 
+## PWA
+- [Progressive web app using react](https://www.zeolearn.com/blogs/build-a-progressive-web-app-using-react)
+
 ## Referents:
 - [Facebook]()
 - [Spotify](https://github.com/spotify?page=2)

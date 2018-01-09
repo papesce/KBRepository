@@ -27,3 +27,6 @@
 - [CI with Travis](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)
 - [Codeship is a Continuous Integration Platform in the cloud.](http://codeship.com)
 
+
+## Dev Ops
+- [Dev ops glosary](https://www.reddit.com/r/devops/comments/7oeqqy/devops_glossary/)

@@ -8,13 +8,13 @@
 - [Keducer] (https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35) Redux generator
 - [Redux with Reselect](http://www.aww-some.com/blog/how-to-add-redux-and-reselect-to-a-react-application/)
 - [Redux Timeout with Redux](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+- [Syncing Redux store with AsyncStorage](https://medium.com/@sumitkushwaha/syncing-redux-store-with-asyncstorage-in-react-native-2b8b890b9ca1)
 
 ## Plugins
 - [Redux-Persist](https://github.com/rt2zz/redux-persist)
 - [Redux Selector](https://gist.github.com/abhiaiyer91/aaf6e325cf7fc5fd5ebc70192a1fa170)
 - [Simplification for Reducers](https://www.npmjs.com/package/redux-action-reducer)
 - [Redux actions](http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html)
-
 
 ## Learning
 - [Configure redux](https://www.reddit.com/r/reactjs/comments/7nf63f/configure_redux_to_createreactapp/)
