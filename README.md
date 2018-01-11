@@ -1,5 +1,5 @@
 # Knowledge Base Repository
-Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme
+Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)

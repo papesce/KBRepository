@@ -2,7 +2,7 @@
 
 
 ## General
-- [20 Amazong opensource node projects for 2018](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
+- [20 Amazing opensource node projects for 2018](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 - [Most popular tutorials 2017](https://blog.risingstack.com/the-most-popular-node-js-tutorials-of-2017/)
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices)
 - [Server.js alternative to Express](https://serverjs.io)
@@ -39,3 +39,8 @@
 
 ## Generators
 - [express-typescript-swagger](https://github.com/cdimascio/generator-express-no-stress-typescript)
+
+## Starters
+- [nestjs](https://github.com/nestjs/nest?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [server.io](https://serverjs.io)
+- [spikenail (node+graphql)](https://github.com/spikenail/spikenail?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
