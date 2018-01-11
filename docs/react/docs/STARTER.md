@@ -16,6 +16,7 @@
 ## Starters for react (see also generic starters)
 - [Garsby Site generator](https://github.com/gatsbyjs/gatsby) (*****)
 - [Gatsbyjs](https://www.gatsbyjs.org)
+- [Getting staterd with gatbsy](https://gist.github.com/amandeepmittal/24ad6100a6c60f3179e258cb586d7044))
 - [React-Starter-Kit (Universal)](https://github.com/kriasoft/react-starter-kit) (****)
 - [SlingshotReact + Redux starter kit / boilerplate](https://github.com/coryhouse/react-slingshot)
 - [React-node (heroku ready)](https://github.com/alanbsmith/react-node-example)

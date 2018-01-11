@@ -11,6 +11,9 @@
 - [Native image cache](https://github.com/billmalarky/react-native-image-cache-hoc)
 - [Reddit image cache](https://reddit.com/r/reactnative/comments/7alqhq/a_react_native_image_caching_persistence_library/)
 
+## Tutorial
+- [Tutorial Publishing react native](https://www.reddit.com/r/reactnative/comments/7pdlwf/3_easy_tutorial_publishing_your_react_native/)
+
 ## Redux Saga
 - [Redux saga for react native](https://www.reddit.com/r/reduxjs/comments/7myd7q/share_tutorial_videos_of_reduxsaga_for_react/)
 

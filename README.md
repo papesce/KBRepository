@@ -10,7 +10,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Data Bases](docs/DB.md)
 - [Git](docs/GIT.md)
 - [Design](docs/DESIGN.md)
-- [Career](docs.CAREER.md)
+- [Career](docs/CAREER.md)
+- [Java](docs/JAVA.md)
+- [CSS](docs/CSS.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
