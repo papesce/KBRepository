@@ -2,9 +2,11 @@
 
 ## Cheatsheets
 - [Cheetsheets](https://devhints.io)
-
+- [React cheatsheet](https://reactcheatsheet.com)
+- [React Patterns](https://reactpatterns.com/)
 
 ## General
+-  [5 practical tips to finally learn React in 2018](https://goshakkk.name/tips-finally-learn-react/)
  - [Learn react in a week](https://www.reddit.com/r/reactjs/comments/7oih88/sources_to_learn_and_master_react_redux_in_less/)
  - [Most popular links of 2017](https://medium.com/dailyjs/the-most-popular-react-links-of-2017-f6e4a2c43628)
  - [Dive in and learn react](https://www.reddit.com/r/reactjs/comments/7nnpum/dive_in_and_learn_react_from_scratch_learn/)

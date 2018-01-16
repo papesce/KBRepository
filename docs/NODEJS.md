@@ -13,16 +13,17 @@
 - [Don't transpile javascript for node](http://vancelucas.com/blog/dont-transpile-javascript-for-node-js/)
 - [RisingStack](https://risingstack.com)  Node Consulting
 - [Node oficial documentation](https://nodejs.org/api/index.html)
-- [e-commerce](https://www.reddit.com/r/node/comments/7jxw6m/ecommerce_with_node/)
+- [e-commerce with node](https://www.reddit.com/r/node/comments/7jxw6m/ecommerce_with_node/)
 
 
 ## Tutorial
 - [Node with typesript](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
 
 ## Microservices
-- [Microservices](https://www.reddit.com/r/node/comments/7m4twc/am_i_understanding_how_to_handle_data_in/)
+- [Microservices trends to see in 2018](https://medium.com/memory-leak/5-microservices-trends-to-watch-in-2018-aed135f70e51)
+- [how to implement Microservices](https://www.reddit.com/r/node/comments/7m4twc/am_i_understanding_how_to_handle_data_in/)
 - [Building a microservice with Mongodb and Docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
-- [Node Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
+- [Node Performance and Highly Scalable Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
 
 ## API Documentation
 - [Swagger](https://swagger.io)
@@ -41,6 +42,6 @@
 - [express-typescript-swagger](https://github.com/cdimascio/generator-express-no-stress-typescript)
 
 ## Starters
-- [nestjs](https://github.com/nestjs/nest?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [nestjs (node + typescript)](https://github.com/nestjs/nest?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [server.io](https://serverjs.io)
-- [spikenail (node+graphql)](https://github.com/spikenail/spikenail?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [spikenail (node + graphql)](https://github.com/spikenail/spikenail?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
