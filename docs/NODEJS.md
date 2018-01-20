@@ -2,6 +2,7 @@
 
 
 ## General
+- [Understanding event loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 - [20 Amazing opensource node projects for 2018](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 - [Most popular tutorials 2017](https://blog.risingstack.com/the-most-popular-node-js-tutorials-of-2017/)
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices)
@@ -15,6 +16,12 @@
 - [Node oficial documentation](https://nodejs.org/api/index.html)
 - [e-commerce with node](https://www.reddit.com/r/node/comments/7jxw6m/ecommerce_with_node/)
 
+## Structure
+- [Advanced projet structure](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
+
+
+## API
+- [Api best practices](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 
 ## Tutorial
 - [Node with typesript](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)

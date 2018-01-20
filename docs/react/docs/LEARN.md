@@ -6,6 +6,9 @@
 - [React Patterns](https://reactpatterns.com/)
 
 ## General
+- [Top 45 tutorials](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
+-  [React Fundamentals](https://rt-react-fundamentals.firebaseapp.com/popular)
+-  [write an HOC in 3 steps](https://paulgray.net/how-to-write-a-hoc/)
 -  [5 practical tips to finally learn React in 2018](https://goshakkk.name/tips-finally-learn-react/)
  - [Learn react in a week](https://www.reddit.com/r/reactjs/comments/7oih88/sources_to_learn_and_master_react_redux_in_less/)
  - [Most popular links of 2017](https://medium.com/dailyjs/the-most-popular-react-links-of-2017-f6e4a2c43628)
@@ -17,11 +20,17 @@
 - [Curated list of links](https://github.com/markerikson/react-redux-links)
 - [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
+
+## Compilation
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more/) A compilation of React Patterns, techniques, tips and tricks.
+
 ## Advanced
+- [React internal architecture](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Build an ecomerce site with react](https://codeburst.io/how-to-build-an-e-commerce-search-ui-with-react-and-elasticsearch-a581c823b2c3)  **
 - [React Fundamentals](https://www.reddit.com/r/reactjs/comments/7mlh41/i_have_an_understanding_of_react_fundamentals_now/)
 
 ## Tutorials
+- [React Express](http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [React-Redux-Node](https://reddit.com/r/reactjs/comments/7bwfy6/ive_made_a_reactreduxnodejs_api_tutorial_for/)
 - [React-Redux-Router-thunk](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
 - [Learn React Online](https://medium.com/quick-code/top-tutorials-to-learn-react-development-online-ca95164d9617)
@@ -41,3 +50,9 @@
 
 ## Books
 - [Free Dev Books](https://devfreebooks.github.io)
+
+
+## Interview questions
+- [Interview Questions](https://github.com/Pau1fitz/react-interview/blob/master/readme.md)
+- [Top 50 interview questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+- [Redux Architecture and best practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)

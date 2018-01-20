@@ -1,4 +1,16 @@
- ## GraphQL
+# GraphQL
+
+## General
+- [CheatSheat](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+- [Oficial spec](http://facebook.github.io/graphql/October2016/)
+- [Awesome Graphql](https://github.com/chentsulin/awesome-graphql)
+
+
+## Login
+- [Authorization vs Authentication](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
+
+## Tutorial
+- [Tutorial for Graphql](https://www.reddit.com/r/graphql/comments/7pqkij/could_anybody_recommend_an_up_to_date_end_to_end/)
 
  - [Apollo GraphQL](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
  - [Video Apollo Client 2.0](https://www.reddit.com/r/graphql/comments/7n2773/this_a_great_new_video_on_what_apollo_client_20/)
@@ -14,3 +26,19 @@
 
 -[Parcel ](https://twitter.com/parceljs?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=750108bc139847b2b872e267ca5b0def&uid=293590089&nid=244+272699405)
 - [Relay facebook- Requires GraphQL](https://github.com/facebook/relay)
+
+
+## Conferences
+There are entire conferences dedicated to GraphQL such as 
+- [GraphQL Summit](https://summit.graphql.com) 
+GraphQL Radio podcast and 
+- [GraphQL Weekly newsletter.](https://graphqlweekly.com)
+- [GraphQL Europe](https://www.graphql-europe.org)
+
+## Boilerplates
+- [Boilerplates](https://github.com/graphql-boilerplates/)
+
+## Implementations:
+- [graph cool](http://www.graph.cool)
+Relay
+Apollo

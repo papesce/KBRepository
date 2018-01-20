@@ -7,6 +7,10 @@
 - [Styled-components]()
 - [Beatiful components for your next project](https://www.reddit.com/r/reactjs/comments/7p1awg/beautiful_react_components_for_your_next_project/)
 
+## Charts
+- [Favorite Charing library](https://www.reddit.com/r/reactjs/comments/7r46si/whats_your_favorite_react_charting_library/)
+
+
 ## UIToolkits
 - [Reactive Search](https://github.com/appbaseio/reactivesearch)
 - [AppBaseIo Components](https://github.com/appbaseio/playground)
@@ -18,4 +22,6 @@
 
 ## Bootstrap
 - [React Strap](https://reactstrap.github.io/)
+
+- [Tachyons](http://tachyons.io)
 

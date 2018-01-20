@@ -5,6 +5,7 @@
 - [Native Base](https://nativebase.io/kitchen-sink-app)
 
 ## General
+- [How to become native dev in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 - [From React to React Native](https://gist.github.com/drumnation/42874ce0a65455455920e720655beadd)
 - [How to use the FlatList Component — React Native Basics](https://medium.com/react-native-development/how-to-use-the-flatlist-component-react-native-basics-92c482816fe6)
  [React Native Sample App](https://reddit.com/r/reactjs/comments/7bjzr0/a_hacker_news_reader_built_in_react_native/)

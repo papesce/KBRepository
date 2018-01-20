@@ -16,4 +16,3 @@
 - [Static gen opensource](https://www.staticgen.com) (sorted by popularity)
 - [ROC](https://github.com/rocjs/roc) (2016)
 
-## Base

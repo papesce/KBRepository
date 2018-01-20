@@ -6,8 +6,14 @@
 ## Project Structure
 - [How to organize react files](https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - [React-Redux-TS boilerplate](https://www.reddit.com/r/node/comments/7nscqb/wip_reactreduxts_boilerplate_feedback_welcome/)
+- [Next-js razzle](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
+
+
+## Component Structure
+- [Component structure with curry](https://hackernoon.com/curry-away-in-react-7c4ed110c65a)
 
 ## Link to Starters 
+- [Hackernews complete](https://github.com/clintonwoo/hackernews-react-graphql)
 - [Javascript stuff - components and more](https://www.javascriptstuff.com)
 - [Javascript stuff React Starter Projects](https://www.javascriptstuff.com/react-starter-projects/)
 - [Awesome Redux boilerplates](https://github.com/xgrommx/awesome-redux#boilerplate) 
@@ -33,6 +39,7 @@
 - [React Native Themes (ecommerce)](https://strapmobile.com)
 
 ## Articles 
+- [Creating a web site using gatsby and strapi](https://medium.com/@strapi/building-a-static-blog-using-gatsby-and-strapi-8b5acfc82ad8)
 - [React Boilerplate Reddit](https://www.reddit.com/r/reactjs/comments/7hcpy7/made_a_new_react_boilerplate_while_learning/)
 - [New Starter App Launches React Projects Fast](https://www.codefellows.org/blog/new-starter-app-launches-react-projects-fast/)
 

@@ -2,6 +2,7 @@ Web sites that provide themes
 ----
 
 ## General
+- [Best Web Ui Kits of 2017](https://blog.prototypr.io/a-look-back-at-2017-best-web-ui-kits-design-video-tutorials-and-ui-ux-designers-1184965cfc09)
 - [Templates Froala](https://www.froala.com/design-blocks)
 - [Floating Header](https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c)
 - [The theme isle](https://themeisle.com)

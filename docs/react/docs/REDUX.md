@@ -23,7 +23,9 @@
 - [react router redux training](https://reacttraining.com/react-router/web/example/sidebar)
 
 
-## Patterns - Redux Saga
+## Patterns - Redux
+
+- [Redux Patterns: Caching an API Response](https://hackernoon.com/redux-patterns-caching-an-api-response-f85f8d8d73c6)
 - [Implementing feature flags in single page apps, using React and Redux Saga](http://blog.launchdarkly.com/implementing-feature-flags-in-single-page-apps-using-react-and-redux-saga/)
 - [Real World Redux saga patterns (formidable.com)](http://formidable.com/blog/2017/real-world-redux-saga-patterns/) *
 - [JavaScript Power Tools: Redux-Saga](http://formidable.com/blog/2017/javascript-power-tools-redux-saga/)

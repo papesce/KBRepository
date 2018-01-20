@@ -13,6 +13,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Career](docs/CAREER.md)
 - [Java](docs/JAVA.md)
 - [CSS](docs/CSS.md)
+- [AWS](docs/AWS.md)
+- [Vue](docs/VUE.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
