@@ -2,13 +2,17 @@
 
 ## General
 - [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+
+## Styles
+- [Typography.js](https://github.com/kyleamathews/typography.js)
+
 ## Components
 - [React-select](http://jedwatson.github.io/react-select/)
 - [Pinterest layout](https://github.com/tsuyoshiwada/react-stack-grid)
 - [React Content Loader](https://danilowoz.github.io/create-react-content-loader/)
 - [Pinterest Layout official](https://masonry.desandro.com)
- - [GraphQL and Relay (facebook)]()
- - [Falcor (netflix)]()
+- [GraphQL and Relay (facebook)]()
+- [Falcor (netflix)]()
 - [Drag and drop library](https://www.reddit.com/r/reactjs/comments/7moqgr/reactdragtastic_a_simple_drag_and_drop_library/)
 
 ## Paypal

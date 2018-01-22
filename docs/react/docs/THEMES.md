@@ -1,6 +1,8 @@
 # Links related with Themes for React
 
 ## General
+
+- [Favorite UI framework](https://www.reddit.com/r/javascript/comments/7qrcas/what_is_you_favorite_ui_framework_for_react/)
 - [10 React themes](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) 
 - [Semanti-ui (Amazon)(Netflix)](https://react.semantic-ui.com/layouts)
 - [10 for rapid prototyping](https://hashnode.com/post/10-best-reactjs-ui-frameworks-for-rapid-prototyping-cit49tqx414z89c53equ4zc5k)
@@ -9,7 +11,6 @@
 
 ## Charts
 - [Favorite Charing library](https://www.reddit.com/r/reactjs/comments/7r46si/whats_your_favorite_react_charting_library/)
-
 
 ## UIToolkits
 - [Reactive Search](https://github.com/appbaseio/reactivesearch)
@@ -22,6 +23,5 @@
 
 ## Bootstrap
 - [React Strap](https://reactstrap.github.io/)
-
 - [Tachyons](http://tachyons.io)
 

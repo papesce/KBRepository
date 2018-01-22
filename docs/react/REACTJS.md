@@ -30,6 +30,10 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React JS top 10 articles of the month](https://medium.mybridge.co/)
 - [Internationalization](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)
 
+## State
+- [react-easy-state](https://github.com/solkimicreb/react-easy-state)
+- [mobx]
+- [redux]
 
 ## React Patterns
 - [Recompose](https://github.com/acdlite/recompose)

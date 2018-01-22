@@ -4,6 +4,7 @@
 [Redux vs MobX](https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
 # General
+
 - [Official documentation](https://github.com/reactjs/redux)
 - [Keducer] (https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35) Redux generator
 - [Redux with Reselect](http://www.aww-some.com/blog/how-to-add-redux-and-reselect-to-a-react-application/)
@@ -17,6 +18,9 @@
 - [Redux actions](http://www.hypertext.io/redux/react/2017/10/30/redux-actions.html)
 
 ## Learning
+
+- [cheatsheet ](https://devhints.io/redux)
+- [Redux in one pic](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
 - [Configure redux](https://www.reddit.com/r/reactjs/comments/7nf63f/configure_redux_to_createreactapp/)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux#boilerplate)
 - [Free Redux tutorial](https://egghead.io/courses/getting-started-with-redux) (dan abramov videos)
