@@ -3,6 +3,13 @@
 ## General
 - [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 
+## util libs
+- [autobind](https://www.npmjs.com/package/react-autobind)
+- [Lodash (trothle debounce)](https://github.com/lodash/lodash/blob/master/throttle.js)
+
+## tips
+- [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)
+
 ## Styles
 - [Typography.js](https://github.com/kyleamathews/typography.js)
 

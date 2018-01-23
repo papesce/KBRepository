@@ -46,3 +46,8 @@
 ## Lint
 - [ESLint](https://eslint.org)
 - [ESLint plugin react](https://www.npmjs.com/package/eslint-plugin-react)
+
+
+## Frameworks
+- [Gatbsy]()
+- [Nextjs](https://jaketrent.com/post/what-is-nextjs/)

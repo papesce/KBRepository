@@ -61,3 +61,8 @@ Links related with [React](https://github.com/facebook/react.git)
 - [paypal]()
 
  
+
+## Jobs
+- [ReactJobs](https://react.42jobs.io) 
+- [Auth0](auth0.com)
+- [YCombinator jobs](https://news.ycombinator.com)

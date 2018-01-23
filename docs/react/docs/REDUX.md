@@ -38,6 +38,9 @@
 ## State modeling
 - [Memoizing and reselect]( https://reddit.com/r/reactjs/comments/7gwkds/help_memoizing_state/) * 
 - [See sectuib abour data in redux](https://github.com/markerikson/react-redux-links)
+-[Inmutable](https://github.com/rtfeldman/seamless-immutable#merge)
+
+
 
 ## Testing
 - [Prevent bugs in large redux codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)

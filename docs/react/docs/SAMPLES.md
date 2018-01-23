@@ -16,6 +16,11 @@
 - [Chat Bur React](https://github.com/KieSun/Chat-Buy-React/blob/master/README-EN.md)
 - [Demo movie app](https://www.reddit.com/r/reactjs/comments/7mcjie/code_review_can_i_get_some_feedback_on_my_app_and/) 
 - [Slot Machine](https://codepen.io/antibland/details/ypagZd/)
+- [Spotify Client](https://github.com/Pau1fitz/react-spotify)
+- [Snoopflags - Reddit client](https://github.com/mrkipling/snooflaps.git)
+- [Kanban board made with React and Redux.](https://github.com/bkkwok/react-kanban-v2#kanban-board-made-with-react-and-redux)
+
+
 
 ## List of Projects
 -[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)

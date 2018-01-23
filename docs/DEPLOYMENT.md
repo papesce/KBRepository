@@ -20,9 +20,9 @@
 ## Providers
 - [Hostinger](https://www.hostinger.com.ar/hostinger)
 
-## Surge
+## Hosts
 - [Surge](http://surge.sh)
-
+- [Zeit](https://zeit.co/pricing)
 
 ## Firebase
 - [Firebase](https://console.firebase.google.com/u/0/project/balanced-life-4a8c7/database/data)
