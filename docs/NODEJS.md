@@ -32,6 +32,12 @@
 - [Building a microservice with Mongodb and Docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
 - [Node Performance and Highly Scalable Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
 
+## libs 
+- [sequelizejs query DB](http://docs.sequelizejs.com)
+- [session](https://github.com/expressjs/session)
+- [passport](http://www.passportjs.org)
+- [connect-session-sequelize](connect-session-sequelize)
+
 ## API Documentation
 - [Swagger](https://swagger.io)
 
@@ -52,3 +58,4 @@
 - [nestjs (node + typescript)](https://github.com/nestjs/nest?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [server.io](https://serverjs.io)
 - [spikenail (node + graphql)](https://github.com/spikenail/spikenail?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [Hackathon-starter](https://github.com/sahat/hackathon-starter)

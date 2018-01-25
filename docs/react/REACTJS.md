@@ -59,10 +59,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Amazon](https://github.com/Semantic-Org/Semantic-UI-React)
 - [Pinterest](https://reddit.com/r/reactjs/comments/7ahzxp/how_pinterest_switched_their_template_rendering/)
 - [paypal]()
-
+- [sw-yx dev blog](https://sw-yx.github.io)
+- [Exercises react native](https://github.com/rodrigoelp)
  
 
-## Jobs
-- [ReactJobs](https://react.42jobs.io) 
-- [Auth0](auth0.com)
-- [YCombinator jobs](https://news.ycombinator.com)

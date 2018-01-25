@@ -7,7 +7,8 @@
 - [How to organize react files](https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - [React-Redux-TS boilerplate](https://www.reddit.com/r/node/comments/7nscqb/wip_reactreduxts_boilerplate_feedback_welcome/)
 - [Next-js razzle](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
-
+- [React Bones - App skeleton for fun and profit](https://github.com/FullstackAcademy/bones)
+- [Boilermaker express/react/redux](https://github.com/FullstackAcademy/boilermaker)
 
 ## Component Structure
 - [Component structure with curry](https://hackernoon.com/curry-away-in-react-7c4ed110c65a)
@@ -27,6 +28,9 @@
 - [SlingshotReact + Redux starter kit / boilerplate](https://github.com/coryhouse/react-slingshot)
 - [React-node (heroku ready)](https://github.com/alanbsmith/react-node-example)
 - [Simple Fullstack GraphQL Application.](https://github.com/atulmy/fullstack-graphql) (*)
+- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+
 
 ## React-redux
 - [React-Redux (heroku ready)](https://github.com/marcgarreau/redux-starter) (2 years)
@@ -51,3 +55,7 @@
 ## Frameworks
 - [Gatbsy]()
 - [Nextjs](https://jaketrent.com/post/what-is-nextjs/)
+
+
+## Search
+- [Meta starter search](https://packagejason.herokuapp.com)

@@ -4,6 +4,10 @@
 ## Themes
 - [Native Base](https://nativebase.io/kitchen-sink-app)
 
+## Libs
+- [React native elements](https://github.com/react-native-training/react-native-elements)
+- [react-navigation](https://reactnavigation.org)
+
 ## General
 - [How to become native dev in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 - [From React to React Native](https://gist.github.com/drumnation/42874ce0a65455455920e720655beadd)
@@ -26,3 +30,4 @@
 - [RN App Sample](https://www.reddit.com/r/reactnative/comments/7nek0t/my_humble_first_rn_app/)
 - [Open Source Samples](https://www.reddit.com/r/reactnative/comments/7nnc8o/examples_of_really_good_react_native_open_source/)
 - [Demo app with apple watch](https://github.com/carlospaelinck/seattlejs-demo-app)
+- [Lottie typescript](https://github.com/rodrigoelp/reactnative-typescript-exercise-22)

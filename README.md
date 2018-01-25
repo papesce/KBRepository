@@ -15,6 +15,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [CSS](docs/CSS.md)
 - [AWS](docs/AWS.md)
 - [Vue](docs/VUE.md)
+- [DS3](docs/DS3.md)
 
 ## Web construction 
 - [Themes](docs/THEMES.md)

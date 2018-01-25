@@ -18,3 +18,6 @@
 
 ## Universal
 - [Universal code spliting](https://www.reddit.com/r/reactjs/comments/7glrfq/i_created_serverside_rendering_code_splitting/?st=JANOB4AC&sh=3a11d664)
+
+## Samples
+- [case study ssr](http://blog.jakoblind.no/case-study-ssr-react/)

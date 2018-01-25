@@ -6,6 +6,15 @@
 ## util libs
 - [autobind](https://www.npmjs.com/package/react-autobind)
 - [Lodash (trothle debounce)](https://github.com/lodash/lodash/blob/master/throttle.js)
+- [import Typist from 'react-typist';](https://github.com/jstejada/react-typist)
+- [import Reveal from 'react-reveal';](https://github.com/rnosov/react-reveal)
+- [Scrollmagic](https://github.com/janpaepke/ScrollMagic)
+- [Timelinemax](https://greensock.com/timelinemax)
+- [html5up.net]()
+- [Mapbox](https://www.mapbox.com/mapbox-gl-js/api/)
+- [Redux-persist](https://github.com/rt2zz/redux-persist)
+- [React sanfona accordeon](https://daviferreira.github.io/react-sanfona/)
+- [Rect splitter layout](https://github.com/zesik/react-splitter-layout)
 
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)

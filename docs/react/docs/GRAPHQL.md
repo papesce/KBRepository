@@ -4,6 +4,7 @@
 - [CheatSheat](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 - [Oficial spec](http://facebook.github.io/graphql/October2016/)
 - [Awesome Graphql](https://github.com/chentsulin/awesome-graphql)
+- [adding GraphQL to exisint express API](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
 
 
 ## Login
