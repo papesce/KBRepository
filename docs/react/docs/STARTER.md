@@ -1,5 +1,13 @@
 # Starters for React
 
+@Syntax
+https://github.com/standard/standard
+
+## General
+- [8 tips to build better react apps](https://blog.risingstack.com/8-tips-to-build-better-react-apps-in-2018/)
+- [Redux-cli](https://github.com/SpencerCDixon/redux-cli/blob/master/redux-cli.gif)
+- [react-boilerplate]generator with saga, redux, and more)
+
 ## cross platform
 - [reactxp (microsoft)](https://microsoft.github.io/reactxp/docs/getting-started.html)
 

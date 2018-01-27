@@ -5,7 +5,7 @@
 - [Oficial spec](http://facebook.github.io/graphql/October2016/)
 - [Awesome Graphql](https://github.com/chentsulin/awesome-graphql)
 - [adding GraphQL to exisint express API](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
-
+- [NYTimes using Graphql](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764)
 
 ## Login
 - [Authorization vs Authentication](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
@@ -43,3 +43,6 @@ GraphQL Radio podcast and
 - [graph cool](http://www.graph.cool)
 Relay
 Apollo
+
+## DB integrations
+- [JoinMoster SQL 2 grapql](https://github.com/stems/join-monster)

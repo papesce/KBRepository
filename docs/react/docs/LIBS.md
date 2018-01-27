@@ -1,6 +1,7 @@
 # Libraries and Components
 
 ## General
+- [Awesome react components](https://github.com/brillout/awesome-react-components)
 - [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 
 ## util libs
@@ -15,6 +16,9 @@
 - [Redux-persist](https://github.com/rt2zz/redux-persist)
 - [React sanfona accordeon](https://daviferreira.github.io/react-sanfona/)
 - [Rect splitter layout](https://github.com/zesik/react-splitter-layout)
+- [React Virtualized](https://github.com/bvaughn/react-virtualized)
+- [React Lazy load](https://github.com/jasonslyvia/react-lazyload)
+- [React-Timeago](https://github.com/nmn/react-timeago)
 
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)

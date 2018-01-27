@@ -6,6 +6,7 @@
 - [Image simulation](https://source.unsplash.com)
 - [swapi sample api](https://swapi.co/api/)
 - [reddit api](https://www.reddit.com/dev/api/)
+- [Api sample](https://reqres.in)
 
 ## Javascript
 ------

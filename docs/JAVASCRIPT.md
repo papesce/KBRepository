@@ -21,6 +21,9 @@
 - [Snippets](https://codetogo.io)
 - [Javascript Roadmap](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 
+## Project Best Practices
+- [javascript best practices](https://www.reddit.com/r/javascript/comments/7smg58/javascript_best_practices_got_11k_stars_on_github/)
+
 
 ## Other
 - [Enable ES7 in VSCode](https://stackoverflow.com/questions/29953293/is-there-a-way-to-turn-on-es6-es7-syntax-support-in-vscode)
@@ -31,3 +34,7 @@
 
 ## Obfuscator
 - [Obfuscator](https://www.reddit.com/r/typescript/comments/7nf5y3/powerfull_javascript_obfuscator_written_on/)
+
+
+## offline (Service Workers)
+- [Offline cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
