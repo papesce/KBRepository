@@ -62,3 +62,6 @@
 
 ## TDD
 - [Node testing](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/)
+
+## Performance
+- [Cache with node and redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)

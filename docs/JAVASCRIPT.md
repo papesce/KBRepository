@@ -38,3 +38,6 @@
 
 ## offline (Service Workers)
 - [Offline cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
+
+## CORS
+- [Understanding CORS](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
