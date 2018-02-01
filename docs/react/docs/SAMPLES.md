@@ -29,3 +29,4 @@
 - [Long list of samples](https://gist.github.com/jpalala/01226fd38fbb421279ef97d62d394c23)
 - [Samples from Learning React Book](https://github.com/MoonHighway/learning-react)
 - [React JS Examples](https://reactjs.org/community/examples.html)
+- [React Rocks](https://react.rock)
