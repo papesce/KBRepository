@@ -30,3 +30,4 @@
 - [Samples from Learning React Book](https://github.com/MoonHighway/learning-react)
 - [React JS Examples](https://reactjs.org/community/examples.html)
 - [React Rocks](https://react.rock)
+- [100 projects while learning](https://www.reddit.com/r/javascript/comments/7utoog/100_projects_i_made_while_learning_javascript/)
