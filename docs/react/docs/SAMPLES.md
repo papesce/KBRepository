@@ -19,8 +19,8 @@
 - [Spotify Client](https://github.com/Pau1fitz/react-spotify)
 - [Snoopflags - Reddit client](https://github.com/mrkipling/snooflaps.git)
 - [Kanban board made with React and Redux.](https://github.com/bkkwok/react-kanban-v2#kanban-board-made-with-react-and-redux)
-
-
+- [Auth with react](https://www.reddit.com/r/reactjs/comments/7uqs6d/code_review_reactredux_rest_api_authentication/)
+- [Chat react redux saga ](https://www.youtube.com/watch?v=x_fHXt9V3zQ)
 
 ## List of Projects
 -[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)

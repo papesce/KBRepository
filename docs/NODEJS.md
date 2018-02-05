@@ -6,6 +6,7 @@
 - [20 Amazing opensource node projects for 2018](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 - [Most popular tutorials 2017](https://blog.risingstack.com/the-most-popular-node-js-tutorials-of-2017/)
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices)
+- [Best Practices Node](https://www.reddit.com/r/node/comments/7tw25t/best_practice_nodejs/)
 - [Server.js alternative to Express](https://serverjs.io)
 - [Node and Microservices](https://twitter.com/RisingStack)
 - [10 Node.js Books That You Should Have on Your Bookshelf](https://www.netguru.co/blog/10-nodejs-books)

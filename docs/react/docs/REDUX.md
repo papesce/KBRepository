@@ -10,6 +10,7 @@
 - [Redux with Reselect](http://www.aww-some.com/blog/how-to-add-redux-and-reselect-to-a-react-application/)
 - [Redux Timeout with Redux](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
 - [Syncing Redux store with AsyncStorage](https://medium.com/@sumitkushwaha/syncing-redux-store-with-asyncstorage-in-react-native-2b8b890b9ca1)
+- [Dont catch at the end ot a thunk](https://reergymerej.github.io/blog/redux/2017/12/16/thunk-promises.html)
 
 ## Plugins
 - [Redux-Persist](https://github.com/rt2zz/redux-persist)

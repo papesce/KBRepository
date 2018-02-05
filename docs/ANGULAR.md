@@ -1,6 +1,7 @@
 # Angular Links
 
 
+## General
 - [Responsive navbar](https://theinfogrid.com/tech/developers/angular/responsive-navbar-angular-flex-layout/)
 - [Angular top 50 in 2017](https://malcoded.com/posts/angular-top-2017)
 - [Inmutability ngrx](https://vsavkin.com/immutability-vs-encapsulation-90549ab74487)
@@ -9,8 +10,11 @@
 - [Redux in angular](https://alligator.io/angular/ngrx-entity)
 - [Angular2 uuid]()
 
-## Service Worker
 
+## Migration
+- [Migration to React](https://www.reddit.com/r/reactjs/comments/7urhap/some_ideas_to_migrate_a_legacy_app_angular_to/)
+
+## Service Worker
 - [Service Worker](https://blog.angular-university.io/angular-service-worker/)
 
 ## SSR

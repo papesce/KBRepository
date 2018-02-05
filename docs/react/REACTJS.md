@@ -29,6 +29,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Learning react in christmas 2017](https://react.christmas/)
 - [React JS top 10 articles of the month](https://medium.mybridge.co/)
 - [Internationalization](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)
+- [React 16.3 available](https://www.reddit.com/r/reactjs/comments/7uur43/react_163_alpha_available_on_npm/)
 
 ## State
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state)

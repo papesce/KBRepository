@@ -5,6 +5,7 @@
 - [React cheatsheet](https://reactcheatsheet.com)
 - [React Patterns](https://reactpatterns.com/)
 
+
 ## General
 - [Top 45 tutorials](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
 -  [React Fundamentals](https://rt-react-fundamentals.firebaseapp.com/popular)
@@ -28,6 +29,7 @@
 - [React internal architecture](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Build an ecomerce site with react](https://codeburst.io/how-to-build-an-e-commerce-search-ui-with-react-and-elasticsearch-a581c823b2c3)  **
 - [React Fundamentals](https://www.reddit.com/r/reactjs/comments/7mlh41/i_have_an_understanding_of_react_fundamentals_now/)
+- [Thunk-promises](https://reergymerej.github.io/blog/redux/2017/12/16/thunk-promises.html)
 
 ## Tutorials
 - [React Express](http://www.react.express/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)

@@ -2,6 +2,13 @@
 
 ## General
 - [Resume Make](https://resumake.io)
+- [Work as a freelancer](https://www.reddit.com/r/webdev/comments/7uzgh9/web_developers_who_are_earning_as_freelancershow/)
+
+
+## interview
+- [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
+- [React-interview](https://github.com/Pau1fitz/react-interview)
+
 
 ## Career progression
 - [Best Books on Carrer Progression](https://www.reddit.com/r/cscareerquestions/comments/7k8tu1/best_books_on_software_engineer_career_progression/)

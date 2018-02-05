@@ -22,6 +22,9 @@
 - [React Lazy load](https://github.com/jasonslyvia/react-lazyload)
 - [React-Timeago](https://github.com/nmn/react-timeago)
 - [React-Burger-Menu](https://github.com/negomi/react-burger-menu)
+- [Redux Persist](https://www.reddit.com/r/reactjs/comments/7uc3yn/reduxpersist_seems_too_good_to_be_true_is_it_good/)
+
+
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)
 
