@@ -54,6 +54,9 @@ Links related with [React](https://github.com/facebook/react.git)
 ## PWA
 - [Progressive web app using react](https://www.zeolearn.com/blogs/build-a-progressive-web-app-using-react)
 
+## Tools
+- [Rekit](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
+
 ## Referents:
 - [Facebook]()
 - [Spotify](https://github.com/spotify?page=2)

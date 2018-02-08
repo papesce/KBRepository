@@ -23,7 +23,8 @@
 - [React-Timeago](https://github.com/nmn/react-timeago)
 - [React-Burger-Menu](https://github.com/negomi/react-burger-menu)
 - [Redux Persist](https://www.reddit.com/r/reactjs/comments/7uc3yn/reduxpersist_seems_too_good_to_be_true_is_it_good/)
-
+- [React scrollable anchor](https://github.com/gabergg/react-scrollable-anchor)
+- [React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)

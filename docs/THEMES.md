@@ -8,10 +8,11 @@ Web sites that provide themes
 - [The theme isle](https://themeisle.com)
 - [Colorlib](https://colorlib.com)
 - [40 best wordpress free themes](https://www.codeinwp.com/blog/best-free-wordpress-themes/)
-
-
-
+- [Bootstrap vs materialize 2018](https://stackshare.io/stackups/bootstrap-vs-materialize)
 - [](https://www.creative-tim.com)
+
+## Tools
+-[svg bacgkrounds](https://www.svgbackgrounds.com/#radiant-gradient)
 
 ## HTML5 
 - [HTML5Up](https://html5up.net/)
@@ -32,4 +33,6 @@ Web sites that provide themes
 
 ## material-ui
 - [search bar for material ui](https://github.com/TeamWertarbyte/material-ui-search-bar/tree/next)
-
+- [MD Bootstrap](https://mdbootstrap.com/components/bootstrap-footer/)
+- [Materialize CSS](http://materializecss.com/navbar.html)
+- [Bootstrap material design](https://github.com/mdbootstrap/bootstrap-material-design)

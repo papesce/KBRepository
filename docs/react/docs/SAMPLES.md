@@ -21,6 +21,7 @@
 - [Kanban board made with React and Redux.](https://github.com/bkkwok/react-kanban-v2#kanban-board-made-with-react-and-redux)
 - [Auth with react](https://www.reddit.com/r/reactjs/comments/7uqs6d/code_review_reactredux_rest_api_authentication/)
 - [Chat react redux saga ](https://www.youtube.com/watch?v=x_fHXt9V3zQ)
+- [Demo with router and footer](https://blog.cloudboost.io/creating-a-react-js-app-from-scratch-part-3-routing-basics-edfb4c10346d)
 
 ## List of Projects
 -[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
