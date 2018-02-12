@@ -9,7 +9,8 @@ Web sites that provide themes
 - [Colorlib](https://colorlib.com)
 - [40 best wordpress free themes](https://www.codeinwp.com/blog/best-free-wordpress-themes/)
 - [Bootstrap vs materialize 2018](https://stackshare.io/stackups/bootstrap-vs-materialize)
-- [](https://www.creative-tim.com)
+- [Premiun boostrap themes](https://www.creative-tim.com)
+- [Techniques to make web app look better](https://www.reddit.com/r/reactjs/comments/7wragu/techniques_to_making_your_web_app_look/)
 
 ## Tools
 -[svg bacgkrounds](https://www.svgbackgrounds.com/#radiant-gradient)
@@ -21,6 +22,7 @@ Web sites that provide themes
 
 ## Prototyping
 - [Best Alternatives to make prototypes](https://boards.greenhouse.io/moz/jobs/502734?gh_jid=502734#.WgZ_A7aZPMU)
+- [Paper.css](https://www.getpapercss.com)
 
 ## Icons
 - [Feathers Icons](https://feathericons.com)

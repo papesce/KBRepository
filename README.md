@@ -48,3 +48,4 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [30 amazing ML projects for 2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 - [Facebook detectron](https://github.com/facebookresearch/Detectron)
 - [Awesome core ml models](https://github.com/likedan/Awesome-CoreML-Models)
+- [Top 10 Articles feb 2018](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)

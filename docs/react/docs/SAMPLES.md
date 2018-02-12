@@ -22,6 +22,8 @@
 - [Auth with react](https://www.reddit.com/r/reactjs/comments/7uqs6d/code_review_reactredux_rest_api_authentication/)
 - [Chat react redux saga ](https://www.youtube.com/watch?v=x_fHXt9V3zQ)
 - [Demo with router and footer](https://blog.cloudboost.io/creating-a-react-js-app-from-scratch-part-3-routing-basics-edfb4c10346d)
+- [Serveless website sourcecode](https://github.com/serverless/site)
+- [todo app react-redux-papercss](https://www.reddit.com/r/reactjs/comments/7wfdwr/i_built_a_todo_app_with_reactredux_using/)
 
 ## List of Projects
 -[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
@@ -32,3 +34,4 @@
 - [React JS Examples](https://reactjs.org/community/examples.html)
 - [React Rocks](https://react.rock)
 - [100 projects while learning](https://www.reddit.com/r/javascript/comments/7utoog/100_projects_i_made_while_learning_javascript/)
+- [Servless samples](https://github.com/serverless/examples)

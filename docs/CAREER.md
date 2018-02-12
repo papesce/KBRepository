@@ -8,7 +8,7 @@
 ## interview
 - [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
 - [React-interview](https://github.com/Pau1fitz/react-interview)
-
+- [FRONTEND INTERVIew handbook](https://github.com/yangshun/front-end-interview-handbook)
 
 ## Career progression
 - [Best Books on Carrer Progression](https://www.reddit.com/r/cscareerquestions/comments/7k8tu1/best_books_on_software_engineer_career_progression/)
@@ -31,3 +31,6 @@
 - [Remote leads](https://remoteleads.io/)
 - [React jobs](https://www.react-jobs.com/location/United-States)
 - [Remote Jobs](https://remoteok.io/)
+
+## Salary Report
+- [Salary Report](https://hired.com/state-of-salaries-2018?utm_source=customerio&utm_medium=email&utm_campaign=(b2c)(m-all)(c_q12018_state-of-salaries_not-onboarded_NA))
