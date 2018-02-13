@@ -5,3 +5,7 @@
 
 ## Deploy Gatsby
 - [Deploy Gatsby](https://www.gatsbyjs.org/docs/deploy-gatsby/)
+
+
+## React in AWS
+[Deply react in aws with docker](https://medium.com/@ianlancaster/deploying-your-react-app-to-aws-using-docker-part-1-setting-up-the-deploy-script-fdfa0b7a66c3)

@@ -21,6 +21,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Forms](docs/FORMS.md)
 
 ## General
+- [Top 10 articles feb 2018](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
 - [Top 10 Artciles of dev 2017](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2017-4277163e56ff)
 - [Top articles for the week dec 2017](https://levelup.gitconnected.com/top-programming-articles-of-the-week-c8d4f086427)
 - [11 react libraries you should know in 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
@@ -30,6 +31,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React JS top 10 articles of the month](https://medium.mybridge.co/)
 - [Internationalization](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)
 - [React 16.3 available](https://www.reddit.com/r/reactjs/comments/7uur43/react_163_alpha_available_on_npm/)
+- [React Weekly](https://medium.com/@DigitalWebHero/react-weekly-1-3db73a3ed11c)
 
 ## State
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state)
@@ -67,4 +69,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [sw-yx dev blog](https://sw-yx.github.io)
 - [Exercises react native](https://github.com/rodrigoelp)
  
-
+## Conferences - Codecamps
+- [React Rally August 2018 Utah](https://speak.reactrally.com/events/react-rally-2018?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=1030c53061c543248eef1e9ae1f91ffb&uid=293590089&nid=244+281088008)
+- [Codecamp las palmas](https://www.reddit.com/r/reactjs/comments/7w5h8g/if_you_want_to_get_up_to_speed_with_react_we_are/)
+- [React-europe May 17-18 2018](https://twitter.com/ReactEurope)

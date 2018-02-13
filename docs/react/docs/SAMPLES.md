@@ -26,7 +26,7 @@
 - [todo app react-redux-papercss](https://www.reddit.com/r/reactjs/comments/7wfdwr/i_built_a_todo_app_with_reactredux_using/)
 
 ## List of Projects
--[22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
+- [22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
 - [Sites using react](https://github.com/facebook/react/wiki/sites-using-react)
 - [official redux](https://github.com/reactjs/redux/blob/master/docs/introduction/Examples.md#real-world)
 - [Long list of samples](https://gist.github.com/jpalala/01226fd38fbb421279ef97d62d394c23)

@@ -7,6 +7,7 @@
 ## Libs
 - [React native elements](https://github.com/react-native-training/react-native-elements)
 - [react-navigation](https://reactnavigation.org)
+- [React menu drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 
 ## General
 - [How to become native dev in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)

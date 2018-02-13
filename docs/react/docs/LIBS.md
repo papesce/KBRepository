@@ -40,6 +40,7 @@
 - [GraphQL and Relay (facebook)]()
 - [Falcor (netflix)]()
 - [Drag and drop library](https://www.reddit.com/r/reactjs/comments/7moqgr/reactdragtastic_a_simple_drag_and_drop_library/)
+- [Little gauges with react](https://www.reddit.com/r/reactjs/comments/7x34e2/a_little_tool_i_made_with_react_to_generate/)
 
 ## Paypal
 - [Downshift components](https://github.com/paypal/downshift)
