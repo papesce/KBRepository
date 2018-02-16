@@ -29,6 +29,7 @@ Web sites that provide themes
 
 ## Animations
 - [Lottie aribnb](https://airbnb.design/lottie/)
+- [CSS paralax](https://basicscroll.electerious.com)
 
 ## Design Principles
 - [Design Principles](https://principles.design)

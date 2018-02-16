@@ -9,6 +9,7 @@
 - [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
 - [React-interview](https://github.com/Pau1fitz/react-interview)
 - [FRONTEND INTERVIew handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [Coding interviews](https://github.com/yangshun/tech-interview-handbook)
 
 ## Career progression
 - [Best Books on Carrer Progression](https://www.reddit.com/r/cscareerquestions/comments/7k8tu1/best_books_on_software_engineer_career_progression/)

@@ -52,6 +52,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [HOC](https://reactjs.org/docs/higher-order-components.html)
 - [Code spliting with react router](https://tylermcginnis.com/react-router-code-splitting/)
 - [beware traps](http://blog.theodo.fr/2018/01/react-html-beware-traps/)
+- [Render Props](https://reactjs.org/docs/render-props.html)
 
 ## PWA
 - [Progressive web app using react](https://www.zeolearn.com/blogs/build-a-progressive-web-app-using-react)
