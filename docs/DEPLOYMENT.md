@@ -5,6 +5,8 @@
 - [Invoice App](https://github.com/hql287/Manta)
 - [Front end checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Netifly](https://app.netlify.com/account/sites)
+- [Free Https Deploys](https://medium.freecodecamp.org/free-https-c051ca570324)
+
 
 ## Packaging / Code Spliting
 - [Parcel PAckage bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)

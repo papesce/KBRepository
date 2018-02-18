@@ -1,6 +1,10 @@
 # Project Managments tools:
 -----
 
+## General
+- [Best Management Tools reddit](https://www.reddit.com/r/projectmanagement/comments/7xjpc0/best_online_project_management_tool/)
+
+
 - [Team Clerk](https://teamclerk.com)
 - [Trello](https://trello.com)
 - [JIRA](https://www.atlassian.com/software/jira)

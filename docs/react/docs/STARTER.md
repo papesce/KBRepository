@@ -37,7 +37,8 @@ https://github.com/standard/standard
 - [React-node (heroku ready)](https://github.com/alanbsmith/react-node-example)
 - [Simple Fullstack GraphQL Application.](https://github.com/atulmy/fullstack-graphql) (*)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-
+- [create react app v111](https://www.reddit.com/r/reactjs/comments/7xp9e6/createreactapplatest_version_v111_with/)
+- [Full Text Search](https://www.reddit.com/r/node/comments/7xgy30/building_a_fulltext_search_app_using_docker_and/)
 
 
 ## React-redux

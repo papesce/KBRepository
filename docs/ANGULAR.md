@@ -22,3 +22,7 @@
 
 ## Redux 
 - [ngrx generator](https://medium.com/@kmathy/ngx-reduxor-do-you-use-ngrx-in-your-angular-app-check-this-generator-b3386e7bf8bf) 
+
+
+## Native
+[Flutter](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa?gi=af2f8786b58b)

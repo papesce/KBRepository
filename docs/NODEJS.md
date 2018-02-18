@@ -32,6 +32,7 @@
 - [how to implement Microservices](https://www.reddit.com/r/node/comments/7m4twc/am_i_understanding_how_to_handle_data_in/)
 - [Building a microservice with Mongodb and Docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
 - [Node Performance and Highly Scalable Microservices](https://reddit.com/r/node/comments/7c6vnj/nodejs_performance_and_highly_scalable/)
+- [Dzone microservices zone](https://dzone.com/microservices-news-tutorials-tools)
 
 ## libs 
 - [sequelizejs query DB](http://docs.sequelizejs.com)

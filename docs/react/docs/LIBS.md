@@ -4,6 +4,7 @@
 - [Awesome react components](https://github.com/brillout/awesome-react-components)
 - [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 - [Responsive-react](https://medium.com/@mustwin/responsive-react-9b56d63c4edc)
+- [Sending email directly contact form](https://medium.com/coffee-and-codes/sending-email-directly-to-gmail-from-contact-us-form-in-front-end-react-redux-using-mail-form-369f8744dc99)
 
 ## util libs
 - [NavBar Component with bootstrap](https://github.com/deadcoder0904/react-bootstrap-navbar/)

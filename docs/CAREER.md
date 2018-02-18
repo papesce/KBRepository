@@ -3,13 +3,14 @@
 ## General
 - [Resume Make](https://resumake.io)
 - [Work as a freelancer](https://www.reddit.com/r/webdev/comments/7uzgh9/web_developers_who_are_earning_as_freelancershow/)
-
+- [How to build a github portfolio](https://www.reddit.com/r/iOSProgramming/comments/7xktdf/how_do_you_start_building_a_github_for_a_portfolio/)
 
 ## interview
 - [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
 - [React-interview](https://github.com/Pau1fitz/react-interview)
 - [FRONTEND INTERVIew handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Coding interviews](https://github.com/yangshun/tech-interview-handbook)
+- [Tips for remote work](https://www.reddit.com/r/jobs/comments/7xqdvt/tips_for_those_looking_for_remote_work_the/?st=1Z141Z3&sh=71c63940)
 
 ## Career progression
 - [Best Books on Carrer Progression](https://www.reddit.com/r/cscareerquestions/comments/7k8tu1/best_books_on_software_engineer_career_progression/)
