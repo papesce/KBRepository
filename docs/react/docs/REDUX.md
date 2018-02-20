@@ -3,7 +3,10 @@
 
 [Redux vs MobX](https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
-# General
+## Cheatsheet
+- [Redux Workflow](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
+
+## General
 
 - [Official documentation](https://github.com/reactjs/redux)
 - [Keducer] (https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35) Redux generator

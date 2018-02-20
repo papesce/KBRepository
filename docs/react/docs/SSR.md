@@ -9,6 +9,7 @@
 - [Getting Started with Universal Render](http://blog.jakoblind.no/getting-started-with-universal-rendering/)
 - [Helium.js  React application isomorphic and optimized](https://www.npmjs.com/package/helium.js)
 - [Understanding reactjs data](https://medium.com/@baphemot/understanding-reactjs-data-hydration-initialization-bacbb790c7cb)
+- [is server side rendering a good choice](https://hackernoon.com/is-server-side-rendering-a-good-choice-for-react-application-f6975755f555)
 
 ## React and Spring Boot
  - [Server side rendering with spring boot](https://patrickgrimard.io/2016/11/24/server-side-rendering-with-spring-boot-and-react/)
