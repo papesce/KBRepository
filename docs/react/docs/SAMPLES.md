@@ -25,6 +25,7 @@
 - [Serveless website sourcecode](https://github.com/serverless/site)
 - [todo app react-redux-papercss](https://www.reddit.com/r/reactjs/comments/7wfdwr/i_built_a_todo_app_with_reactredux_using/)
 - [URL shortener](https://github.com/thedevs-network/kutt)
+- [Production quality samples](https://www.reddit.com/r/reactjs/comments/7zgph4/are_there_any_examples_of_productionquality/)
 
 ## List of Projects
 - [22 Open source projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
