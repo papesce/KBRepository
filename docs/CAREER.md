@@ -4,6 +4,7 @@
 - [Resume Make](https://resumake.io)
 - [Work as a freelancer](https://www.reddit.com/r/webdev/comments/7uzgh9/web_developers_who_are_earning_as_freelancershow/)
 - [How to build a github portfolio](https://www.reddit.com/r/iOSProgramming/comments/7xktdf/how_do_you_start_building_a_github_for_a_portfolio/)
+[intervie 20 min](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
 
 ## interview
 - [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
