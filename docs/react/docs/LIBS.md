@@ -29,8 +29,11 @@
 - [React-dropdown](https://www.npmjs.com/package/react-dropdown)
 - [LazyLoad fadein](https://github.com/Swizec/react-lazyload-fadein)
 
+
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)
+- [Use Google Maps API with react](https://medium.com/front-end-hacking/using-the-google-maps-javascript-api-in-a-react-project-b3ed734375c6)
+- [React lazy load scroll](https://www.reddit.com/r/reactjs/comments/7zo43f/any_recommendations_for_a_react_friendly_tool_for/)
 
 ## Styles
 - [Typography.js](https://github.com/kyleamathews/typography.js)

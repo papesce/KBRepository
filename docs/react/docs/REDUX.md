@@ -9,7 +9,8 @@
 ## General
 
 - [Official documentation](https://github.com/reactjs/redux)
-- [Keducer] (https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35) Redux generator
+- [Redux ecosystem](https://redux.js.org/introduction/ecosystem)
+- [Keducer](https://hackernoon.com/automate-writing-redux-reducers-with-5-lines-of-javascript-cecb79fb9a35) Redux generator
 - [Redux with Reselect](http://www.aww-some.com/blog/how-to-add-redux-and-reselect-to-a-react-application/)
 - [Redux Timeout with Redux](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
 - [Syncing Redux store with AsyncStorage](https://medium.com/@sumitkushwaha/syncing-redux-store-with-asyncstorage-in-react-native-2b8b890b9ca1)
@@ -33,6 +34,8 @@
 
 ## Patterns - Redux
 
+- [Ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
+- [Modular Redux](https://www.reddit.com/r/reactjs/comments/7zuzr5/rethinking_redux_in_modules/)
 - [Redux Patterns: Caching an API Response](https://hackernoon.com/redux-patterns-caching-an-api-response-f85f8d8d73c6)
 - [Implementing feature flags in single page apps, using React and Redux Saga](http://blog.launchdarkly.com/implementing-feature-flags-in-single-page-apps-using-react-and-redux-saga/)
 - [Real World Redux saga patterns (formidable.com)](http://formidable.com/blog/2017/real-world-redux-saga-patterns/) *
