@@ -43,6 +43,7 @@ GraphQL Radio podcast and
 
 ## Implementations:
 - [graph cool](http://www.graph.cool)
+- [Exploring different clients](https://medium.com/@abhiaiyer/exploring-different-graphql-clients-d1bc69de305f)
 Relay
 Apollo
 

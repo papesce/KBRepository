@@ -33,3 +33,6 @@
 - [Open Source Samples](https://www.reddit.com/r/reactnative/comments/7nnc8o/examples_of_really_good_react_native_open_source/)
 - [Demo app with apple watch](https://github.com/carlospaelinck/seattlejs-demo-app)
 - [Lottie typescript](https://github.com/rodrigoelp/reactnative-typescript-exercise-22)
+
+## Deploy
+- [Deploy to ios](https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8)

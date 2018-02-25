@@ -6,3 +6,6 @@
 - [AWS Docker Node](https://community.risingstack.com/using-docker-swarm-for-deploying-nodejs-microservices/)
 - [AWS-Inventory](https://github.com/devops-israel/aws-inventory)
 - [Improving response graphql AWS](https://www.reddit.com/r/reactjs/comments/7xaiq3/improving_graphql_response_times_on_aws/)
+
+## Architecture
+- [AWS architecture](https://www.reddit.com/r/aws/comments/7yzlm5/anyone_got_an_aws_wellarchitected_review_done_of/)
