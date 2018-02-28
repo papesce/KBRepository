@@ -1,6 +1,9 @@
 Online Learning
 ----------
 
+## Communities
+- [Javascript Comunities](https://www.reddit.com/r/reactjs/comments/80f9yz/what_are_some_of_the_best_javascript_communities/)
+
 ## General
 - [FullStack Academy](https://www.fullstackacademy.com)
 - [Free Code Camp !](https://www.freecodecamp.org/challenges/headline-with-the-h2-element)
@@ -12,6 +15,7 @@ Online Learning
 - [SlideShare (linkedin)](https://www.slideshare.net)
 - [Edge Coders](https://edgecoders.com)
 - [300 College Free courses](https://medium.freecodecamp.org/here-are-330-ivy-league-courses-you-can-take-online-right-now-for-free-58147bb7adcf)
+
 
 ## Coding algoritms
 - [Leetcode](https://leetcode.com)
