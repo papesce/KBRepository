@@ -21,6 +21,7 @@
 - [Curated list of links](https://github.com/markerikson/react-redux-links)
 - [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 - [React Blogs Newsletters](https://blog.instabug.com/2018/02/react-blogs/?utm_source=reddit&utm_medium=referral&utm_campaign=social&utm_content=react_blogs)
+- [Basic Componentization](https://codeburst.io/react-basic-componentization-and-conditional-css-styling-4f678981adaf)
 
 ## Compilation
 - [React Bits](https://vasanthk.gitbooks.io/react-bits/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more/) A compilation of React Patterns, techniques, tips and tricks.

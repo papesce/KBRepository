@@ -16,3 +16,7 @@
 - [Static gen opensource](https://www.staticgen.com) (sorted by popularity)
 - [ROC](https://github.com/rocjs/roc) (2016)
 
+
+## Experiences
+- [MVP in one month](https://hackernoon.com/how-we-launched-our-first-mvp-in-one-month-6239aca8e63e)
+

@@ -34,8 +34,6 @@
 
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)
-- [Use Google Maps API with react](https://medium.com/front-end-hacking/using-the-google-maps-javascript-api-in-a-react-project-b3ed734375c6)
-- [React lazy load scroll](https://www.reddit.com/r/reactjs/comments/7zo43f/any_recommendations_for_a_react_friendly_tool_for/)
 
 ## Styles
 - [Typography.js](https://github.com/kyleamathews/typography.js)
@@ -58,11 +56,6 @@
 - [server bypas](https://stackoverflow.com/questions/46709770/reactjs-bypass-routing-to-allow-java-server-side-api-access#)
 - [React Router v4 tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 
-## Forms for react
-- [Formik for react](https://github.com/jaredpalmer/formik/blob/master/README.md)
-- [Reduxform is dead](https://www.reddit.com/r/reactjs/comments/7p3ux7/reduxform_is_dead/)
-- [Material-ui and redux-forms](https://redux-form.com/7.2.0/examples/material-ui/)
-- [Angular like reactive forms in React](https://www.reddit.com/r/reactnative/comments/7m9nir/angular_like_reactive_forms_in_react/)
 
 ## Documentation
 react-styleguidist
@@ -73,3 +66,7 @@ react-storybook
 ## Dinamic loading
  react-loadable
  react-virtualized
+
+
+ ## File-Upload
+ [](https://levelup.gitconnected.com/file-upload-with-node-js-react-js-686e342ad7e7)

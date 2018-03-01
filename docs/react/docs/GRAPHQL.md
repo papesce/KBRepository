@@ -8,6 +8,8 @@
 - [NYTimes using Graphql](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764)
 - [Antipatterns](https://www.reddit.com/r/graphql/comments/7u75j1/is_it_antipattern_to_have_a_graphql_endpoint_for/)
 - [Graphql support](https://www.reddit.com/r/graphql/comments/7so6aw/api_platform_22_graphql_support_reactjs_admin_and/)
+- [Graphql starter](https://github.com/rwieruch/react-graphql-github-apollo))
+- [Wrap Graphql with rest](https://blog.graph.cool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d)
 
 ## Login
 - [Authorization vs Authentication](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
