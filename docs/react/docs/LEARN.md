@@ -4,7 +4,7 @@
 - [Cheetsheets](https://devhints.io)
 - [React cheatsheet](https://reactcheatsheet.com)
 - [React Patterns](https://reactpatterns.com/)
-
+- [React patterns](https://www.reddit.com/r/reactjs/comments/7z58ir/react_patterns/)
 
 ## General
 - [Top 45 tutorials](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
