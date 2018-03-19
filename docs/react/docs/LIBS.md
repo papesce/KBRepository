@@ -28,6 +28,9 @@
 - [React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 - [React-dropdown](https://www.npmjs.com/package/react-dropdown)
 - [LazyLoad fadein](https://github.com/Swizec/react-lazyload-fadein)
+- [React dragable](https://github.com/mzabriskie/react-draggable)
+- [Basic Scroll](https://github.com/electerious/basicScroll)
+- [Modern normalize](https://github.com/sindresorhus/modern-normalize)
 
 ## tips
 - [Tip: you may use the bindActionCreators()](https://github.com/reactjs/react-redux/blob/master/docs/api.md)

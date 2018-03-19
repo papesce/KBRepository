@@ -80,8 +80,8 @@ Links related with [React](https://github.com/facebook/react.git)
 ## Conferences - Codecamps
 - [React Rally August 2018 Utah](https://speak.reactrally.com/events/react-rally-2018?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=1030c53061c543248eef1e9ae1f91ffb&uid=293590089&nid=244+281088008)
 - [Codecamp las palmas](https://www.reddit.com/r/reactjs/comments/7w5h8g/if_you_want_to_get_up_to_speed_with_react_we_are/)
-- [React-europe May 17-18 2018](https://twitter.com/ReactEurope)
-
+- [React-europe May 17-18 2018 Paris](https://twitter.com/ReactEurope)
+- [3dbasecamp sept 2018 sketch](https://3dbasecamp.sketchup.com/program?mkt_tok=eyJpIjoiWkdJMU9XTm1aREZqWTJFMSIsInQiOiJJTU1LUEIxdXl6TG5yXC8rdHlINGZpSVQrdkVxa1FLVW1LU1J2TGxoVnEyUjN0Q3lZUnJaOE9zVWFkME1Bb29IK08ybUVEdmIwQlREYXVYYXl5eUZyenFuZTduSWlUYUlLR3dPWUg3bFZ5ODN1QnFGR01zVFwvRERod2pHRFVZd1ZJIn0%3D)
 
 ## Debounce
 - [Perform Debounce in react](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js)

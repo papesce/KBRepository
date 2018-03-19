@@ -12,6 +12,7 @@
 - [FRONTEND INTERVIew handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Coding interviews](https://github.com/yangshun/tech-interview-handbook)
 - [Tips for remote work](https://www.reddit.com/r/jobs/comments/7xqdvt/tips_for_those_looking_for_remote_work_the/?st=1Z141Z3&sh=71c63940)
+- [Ex recruiter](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
 
 ## Career progression
 - [Best Books on Carrer Progression](https://www.reddit.com/r/cscareerquestions/comments/7k8tu1/best_books_on_software_engineer_career_progression/)
@@ -34,6 +35,7 @@
 - [Remote leads](https://remoteleads.io/)
 - [React jobs](https://www.react-jobs.com/location/United-States)
 - [Remote Jobs](https://remoteok.io/)
+- [React Jobs remote](https://react.42jobs.io/)
 
 ## Salary Report
 - [Salary Report](https://hired.com/state-of-salaries-2018?utm_source=customerio&utm_medium=email&utm_campaign=(b2c)(m-all)(c_q12018_state-of-salaries_not-onboarded_NA))
