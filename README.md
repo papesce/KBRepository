@@ -49,3 +49,4 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Facebook detectron](https://github.com/facebookresearch/Detectron)
 - [Awesome core ml models](https://github.com/likedan/Awesome-CoreML-Models)
 - [Top 10 Articles feb 2018](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)
+- [Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-mar-2018-9d2c1d2ed00c)

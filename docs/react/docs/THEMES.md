@@ -30,3 +30,8 @@ https://startreact.com
 
 ## CSS
 - [Glamorous medium article](https://medium.com/@colebemis/styling-react-components-6dc1ac53c574)
+
+
+## styled-components
+-[trip and trycks](https://github.com/styled-components/styled-components/blob/master/docs/tips-and-tricks.md)
+- [cheatsheet](https://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)

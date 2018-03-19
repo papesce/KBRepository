@@ -36,6 +36,7 @@ Links related with [React](https://github.com/facebook/react.git)
 
 ## State
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state)
+- [About inmutability](https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
 - [mobx]
 - [redux]
 
