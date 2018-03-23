@@ -21,6 +21,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Forms](docs/FORMS.md)
 
 ## General
+- [Beyond React Fest 2018](https://inside.edited.com/beyond-react-fest-18-b201cddf564d)
 - [Top 10 articles feb 2018](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
 - [Top 10 opensource projects feb 2018](https://medium.mybridge.co/react-js-top-10-open-source-projects-v-feb-2018-655463e4d1a8)
 - [Top 10 Artciles of dev 2017](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2017-4277163e56ff)
