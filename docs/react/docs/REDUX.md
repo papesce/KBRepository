@@ -46,7 +46,8 @@
 - [Memoizing and reselect]( https://reddit.com/r/reactjs/comments/7gwkds/help_memoizing_state/) * 
 - [See sectuib abour data in redux](https://github.com/markerikson/react-redux-links)
 -[Inmutable](https://github.com/rtfeldman/seamless-immutable#merge)
-
+-(https://www.npmjs.com/package/immutability-helper) 
+ https://github.com/kube/monolite 
 
 
 ## Testing

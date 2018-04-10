@@ -61,6 +61,7 @@ Links related with [React](https://github.com/facebook/react.git)
 
 ## Code Spliting
 - [Code Spliting](https://medium.com/front-end-hacking/code-splitting-redux-reducers-4073db30c72e)
+- [Analyze budle size with Code spliting](https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26)
 
 ## PWA
 - [Progressive web app using react](https://www.zeolearn.com/blogs/build-a-progressive-web-app-using-react)
@@ -79,6 +80,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Exercises react native](https://github.com/rodrigoelp)
  
 ## Conferences - Codecamps
+- [React Rally 2018](https://ti.to/trace-events/react-rally-2018/with/6hcei4yq6gu)
 - [React Rally August 2018 Utah](https://speak.reactrally.com/events/react-rally-2018?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=1030c53061c543248eef1e9ae1f91ffb&uid=293590089&nid=244+281088008)
 - [Codecamp las palmas](https://www.reddit.com/r/reactjs/comments/7w5h8g/if_you_want_to_get_up_to_speed_with_react_we_are/)
 - [React-europe May 17-18 2018 Paris](https://twitter.com/ReactEurope)

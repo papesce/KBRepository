@@ -4,7 +4,7 @@
 - [IosRef Resources](https://iosref.com)
 - [Top ios articles 2017](https://www.reddit.com/r/iOSProgramming/comments/7u8cad/top_ios_articles_of_2017_with_table_of_contents/)
 -[Swift Top 10 articles mar 2018](https://medium.com/@Mybridge/swift-top-10-articles-for-the-past-month-v-mar-2018-8d29c82a944b?source=email-5d1379baee2b-1521114335600-digest.reader------0-7&sectionName=top)
-
+- [Debugging apps with xcode](https://cocoacasts.com/series/debugging-applications-with-xcode)
 ## Interview
 - [50 ios interview questions and answers](https://www.reddit.com/r/iOSProgramming/comments/7npdor/50_ios_interview_questions_and_answers/)
 
