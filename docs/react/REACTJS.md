@@ -33,6 +33,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Internationalization](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)
 - [React 16.3 available](https://www.reddit.com/r/reactjs/comments/7uur43/react_163_alpha_available_on_npm/)
 - [React Weekly](https://medium.com/@DigitalWebHero/react-weekly-1-3db73a3ed11c)
+- [React Context API](https://blog.logrocket.com/how-and-when-to-use-reacts-new-context-api-b584e41b2704) 
 
 ## State
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state)
