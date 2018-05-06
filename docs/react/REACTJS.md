@@ -19,6 +19,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React Native](docs/NATIVE.md)
 - [Typescript](docs/TYPESCRIPT.md)
 - [Forms](docs/FORMS.md)
+- [Testing](docs/TESTING.md)
 
 ## General
 - [Beyond React Fest 2018](https://inside.edited.com/beyond-react-fest-18-b201cddf564d)
