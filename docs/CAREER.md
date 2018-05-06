@@ -5,7 +5,9 @@
 - [Work as a freelancer](https://www.reddit.com/r/webdev/comments/7uzgh9/web_developers_who_are_earning_as_freelancershow/)
 - [How to build a github portfolio](https://www.reddit.com/r/iOSProgramming/comments/7xktdf/how_do_you_start_building_a_github_for_a_portfolio/)
 [intervie 20 min](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
+[Front end developer handbook](https://www.reddit.com/r/javascript/comments/8b18y2/frontend_developer_handbook_2018_a_free_original/)
 [build raport with your manager](https://hired.com/blog/candidates/effective-ways-to-build-rapport-manager/?utm_source=customerio&utm_medium=email&utm_campaign=(b2c)(m-all)(c_newsletter_20180322_not-onboarded_NA))
+
 
 ## interview
 - [Interview Advice](https://www.reddit.com/r/reactjs/comments/7udohf/interview_advice/)
