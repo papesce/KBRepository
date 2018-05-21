@@ -48,7 +48,7 @@
 -[Inmutable](https://github.com/rtfeldman/seamless-immutable#merge)
 -(https://www.npmjs.com/package/immutability-helper) 
  https://github.com/kube/monolite 
-
+-[Immer inmutable state](https://github.com/mweststrate/immer)
 
 ## Testing
 - [Prevent bugs in large redux codebase](https://decembersoft.com/posts/5-strategies-to-prevent-bugs-in-a-large-redux-codebase/)
