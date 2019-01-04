@@ -1,6 +1,9 @@
 # Knowledge Base Repository
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
+## Trendings
+ - [Trendings](https://github.com/trending/javascript)
+
 ## Technologies
 - [NodeJS](docs/NODEJS.md)
 - [ReactJS](docs/react/REACTJS.md)
