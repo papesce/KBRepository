@@ -36,6 +36,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [React 16.3 available](https://www.reddit.com/r/reactjs/comments/7uur43/react_163_alpha_available_on_npm/)
 - [React Weekly](https://medium.com/@DigitalWebHero/react-weekly-1-3db73a3ed11c)
 - [React Context API](https://blog.logrocket.com/how-and-when-to-use-reacts-new-context-api-b584e41b2704) 
+- [where to put my business logic in react](https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1)
 
 ## State
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state)
@@ -60,6 +61,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [beware traps](http://blog.theodo.fr/2018/01/react-html-beware-traps/)
 - [Render Props](https://reactjs.org/docs/render-props.html)
 - [React lifecycle](https://codeburst.io/how-to-use-react-lifecycle-methods-ddc79699b34e)
+- [Handle Auth with Router](https://tylermcginnis.com/react-router-protected-routes-authentication/)
 
 ## Code Spliting
 - [Code Spliting](https://medium.com/front-end-hacking/code-splitting-redux-reducers-4073db30c72e)

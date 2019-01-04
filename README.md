@@ -1,5 +1,5 @@
 # Knowledge Base Repository
-Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc
+Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)
@@ -19,7 +19,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Web construction 
 - [Themes](docs/THEMES.md)
-- [Starters](docs/STARTERS)
+- [Starters](docs/STARTERS.md)
+- [Business Analyst](docs/BA.md)
 
 ## News and Learning
 - [Comparison](docs/COMPARISON.md)
