@@ -1,5 +1,8 @@
 # Libraries and Components
 
+## 2019
+- [Rect-Intersection-Observer](https://www.npmjs.com/package/react-intersection-observer)
+
 ## General
 - [Awesome react components](https://github.com/brillout/awesome-react-components)
 - [Top 25 opensource projects](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)

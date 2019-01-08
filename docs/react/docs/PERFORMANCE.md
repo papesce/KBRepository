@@ -1,5 +1,8 @@
 # Performance & Debugging Testing for React
 
+## 2019
+ - [Lazy loading images](https://medium.com/walmartlabs/lazy-loading-images-intersectionobserver-8c5bff730920)
+
 ## TDD (Test Driven Development)
 - [Jest](https://facebook.github.io/jest/)
 - [Jest-cli](https://facebook.github.io/jest/docs/en/cli.html)
