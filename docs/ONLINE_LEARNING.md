@@ -1,6 +1,9 @@
 Online Learning
 ----------
 
+## 2019
+ - [Learning JS free Github Courses](https://www.techrepublic.com/article/learning-programming-languages-for-free-githubs-best-courses-and-guides-for-javascript-developers/)
+
 ## Communities
 - [Javascript Comunities](https://www.reddit.com/r/reactjs/comments/80f9yz/what_are_some_of_the_best_javascript_communities/)
 

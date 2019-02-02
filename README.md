@@ -1,8 +1,11 @@
 # Knowledge Base Repository
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
+
+
 ## Trendings
  - [Trendings](https://github.com/trending/javascript)
+ - [Enterprnour](docs/ENTEPRENEUR.md)
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)
