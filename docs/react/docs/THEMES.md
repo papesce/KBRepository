@@ -1,5 +1,9 @@
 # Links related with Themes for React
 
+
+## 2019
+- [5 ways to style react components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
+
 ## General
 - [Favorite UI framework](https://www.reddit.com/r/javascript/comments/7qrcas/what_is_you_favorite_ui_framework_for_react/)
 - [10 React themes](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) 
@@ -30,6 +34,8 @@ https://startreact.com
 
 ## CSS
 - [Glamorous medium article](https://medium.com/@colebemis/styling-react-components-6dc1ac53c574)
+
+
 
 
 ## styled-components
