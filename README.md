@@ -3,9 +3,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 
 
-## Trendings
- - [Trendings](https://github.com/trending/javascript)
- - [Enterprnour](docs/ENTEPRENEUR.md)
+## Trending
+ - [Trending](https://github.com/trending/javascript)
+ - [Enterpreneur](docs/ENTEPRENEUR.md)
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)

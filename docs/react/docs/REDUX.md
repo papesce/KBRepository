@@ -1,6 +1,11 @@
 
 # Redux Links
 
+
+## 2019
+[](https://gist.github.com/datchley/4e0d05c526d532d1b05bf9b48b174faf#organization-1)
+[Redux Starter kit](https://redux-starter-kit.js.org)
+
 [Redux vs MobX](https://www.youtube.com/watch?v=76FRrbY18Bs&index=8&list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
 ## Cheatsheet
