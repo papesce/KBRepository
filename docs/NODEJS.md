@@ -1,6 +1,10 @@
 # NodeJS resources:
 
 
+## 2019
+- [Hackaton starter](https://github.com/sahat/hackathon-starter)
+
+
 ## General
 - [top 10 articles mar 2018](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-mar-2018-732bebd07322)
 - [Understanding event loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)

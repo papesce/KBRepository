@@ -2,6 +2,9 @@
 
 Links related with [React](https://github.com/facebook/react.git)
 
+## 2019
+ - [react-beatiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+
 ## Links to specific React subject with more links inside
 - [Architecture](docs/ARCHITECTURE.md)
 - [Login](docs/LOGIN.md)

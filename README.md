@@ -5,7 +5,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Trending
  - [Trending](https://github.com/trending/javascript)
- - [Enterpreneur](docs/ENTEPRENEUR.md)
+
+## Interview
+ - [Interview Links](docs/INTERVIEW.md)
 
 ## Technologies
 - [NodeJS](docs/NODEJS.md)
@@ -39,6 +41,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Project Management
 - [PM tools](docs/PM.md)
+
+## Archived
+- [Archived Links](docs/ARCHIVED.md)
 
 ## Reddit 
 - [Reddit List](docs/REDDIT.md)
