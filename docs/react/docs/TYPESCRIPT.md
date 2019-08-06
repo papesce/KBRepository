@@ -1,6 +1,11 @@
 
 # Typescript
 
+## 2019
+- [Handbook](https://www.typescriptlang.org/docs/handbook)
+- [React Typescript Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
+- [Understanding TypeScript’s type notation](https://2ality.com/2018/04/type-notation-typescript.html)
+ - [React-Typescrypt](https://reactjs.org/docs/static-type-checking.html#typescript)
 
 ## General
 - [Converting create-react-app to Typescript](http://www.gustavwengel.dk/converting-typescript-to-javascript-part-1)
