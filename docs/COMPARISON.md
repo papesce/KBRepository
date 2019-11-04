@@ -3,6 +3,7 @@
 
 2019
 ----
+- [React Native vs Flutter](https://medium.com/@adhithiravi/react-native-vs-flutter-what-are-the-differences-b6dc892f0d34)
 - [React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
 
 
