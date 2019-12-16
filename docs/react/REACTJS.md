@@ -4,8 +4,10 @@ Links related with [React](https://github.com/facebook/react.git)
 
 ## 2019
  - [react-beatiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+ - [Top Tech Talks 2019](https://www.reddit.com/r/reactjs/comments/eay5cg/my_top_react_techtalks_of_2019/)
 
 ## Links to specific React subject with more links inside
+- [Charts][docs/CHARTS.md] (2019)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Login](docs/LOGIN.md)
 - [Learn React](docs/LEARN.md) tutorials, forums
