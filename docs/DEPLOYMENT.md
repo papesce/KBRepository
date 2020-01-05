@@ -1,5 +1,8 @@
 # Links related with packaging / deployment
 
+## 2019
+ - [Create you own npm package](https://medium.com/medialesson/create-your-own-npm-package-private-or-public-60edc2c42f68)
+
 ## General
 - [Product Hunt](https://www.producthunt.com)
 - [Invoice App](https://github.com/hql287/Manta)
