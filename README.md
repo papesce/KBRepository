@@ -5,6 +5,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 ## Trending
  - [Trending](https://github.com/trending/javascript)
+ - [Trends Links](docs/TRENDS.md)
 
 ## Interview
  - [Interview Links](docs/INTERVIEW.md)
