@@ -1,6 +1,11 @@
 # Comparison of frameworks
 
 
+
+2020
+----
+- [Emotion vs Styled-Components](https://github.com/jsjoeio/styled-components-vs-emotion)
+
 2019
 ----
 - [React Native vs Flutter](https://medium.com/@adhithiravi/react-native-vs-flutter-what-are-the-differences-b6dc892f0d34)
