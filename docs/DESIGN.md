@@ -1,4 +1,7 @@
 
+# 2020
+ - [UI Wizard](uizard.io)
+
 # Design Tools
 
 - [Mobile UX trends](https://www.reddit.com/r/UXDesign/comments/7tp7g6/12_mobile_ux_design_trends_for_2018/)
