@@ -1,5 +1,7 @@
 # NodeJS resources:
 
+## 2020
+- [Add Swagger to Node](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
 
 ## 2019
 - [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
