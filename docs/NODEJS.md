@@ -1,6 +1,7 @@
 # NodeJS resources:
 
 ## 2020
+- [Auto Generationg swagger from comments](https://medium.com/@dlowkeen/auto-generating-swagger-documentation-for-your-node-api-c806cedbdd3e)
 - [Add Swagger to Node](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
 - [Add Swagger to existing typescript Node](https://medium.com/@sean_bradley/add-swagger-ui-to-existing-nodejs-typescript-api-882ca7aded90)
 
