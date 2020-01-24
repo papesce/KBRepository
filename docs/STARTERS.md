@@ -1,5 +1,9 @@
 # Starters
 
+## 2020
+- [From Lerna to NX](https://blog.nrwl.io/why-you-should-switch-from-lerna-to-nx-463bcaf6821)
+- [CRA universal](https://github.com/antonybudianto/cra-universal/)
+
 ## Multilanguage
 - [Realworld](https://github.com/gothinkster/realworld)
 - [Mega boilerplate](http://megaboilerplate.com) (2016)
