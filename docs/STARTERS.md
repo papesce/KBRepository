@@ -1,6 +1,7 @@
 # Starters
 
 ## 2020
+- [Monorepo with lerna and react](https://medium.com/@sisosys7/a-monorepo-setup-with-lerna-react-and-typescript-7b912fb48622)
 - [From Lerna to NX](https://blog.nrwl.io/why-you-should-switch-from-lerna-to-nx-463bcaf6821)
 - [CRA universal](https://github.com/antonybudianto/cra-universal/)
 
