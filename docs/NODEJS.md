@@ -1,6 +1,8 @@
 # NodeJS resources:
 
 ## 2020
+- [Monorepo Lerna Yarn](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
+- [CRA-Monorepo](https://github.com/biernacki/cra-monorepo)
 - [TOP mongoose projects](https://awesomeopensource.com/projects/mongoose)
 - [Node TS Mongoose generator](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose)
 - [Node TS generator](https://github.com/seanpmaxwell/express-generator-typescript#readme)
