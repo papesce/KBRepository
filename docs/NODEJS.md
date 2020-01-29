@@ -11,6 +11,10 @@
 - [Add Swagger to existing typescript Node](https://medium.com/@sean_bradley/add-swagger-ui-to-existing-nodejs-typescript-api-882ca7aded90)
 
 
+## Logging
+- [Pino](https://getpino.io/#/)
+- [Roarr](https://github.com/gajus/roarr)
+
 ## 2019
 - [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Hackaton starter](https://github.com/sahat/hackathon-starter)
