@@ -39,6 +39,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [List of IDEs](docs/IDE.md)
 - [Certifications](docs/CERTIFICATIONS.md)
 - [Architecture](docs/ARCHITECTURE.md)
+- [Machine Learning](docs/ML.md)
 
 ## Project Management
 - [PM tools](docs/PM.md)
@@ -56,13 +57,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [MD Cheatsheet](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
 - [webap for github](https://www.reddit.com/r/webdev/comments/7ofxir/my_buddy_built_a_webapp_to_make_looking_for/)
 
-## Machine Learning
-- [Machine Learning Aribnb](https://www.hpe.com/us/en/insights/articles/podcast-how-airbnb-is-pushing-the-limits-of-machine-learning-1712.html)
-- [30 amazing ML projects for 2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
-- [Facebook detectron](https://github.com/facebookresearch/Detectron)
-- [Awesome core ml models](https://github.com/likedan/Awesome-CoreML-Models)
-- [Top 10 Articles feb 2018](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)
-- [Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-mar-2018-9d2c1d2ed00c)
+
 
 
 -Free Tools

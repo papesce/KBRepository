@@ -1,5 +1,8 @@
 # Deployments Links
 
+# 2020
+- heroku buildpack https://github.com/mars/create-react-app-buildpack.git
+
 
 ## enable Firewal
 sudo ufw allow 7070/tcp
