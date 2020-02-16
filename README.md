@@ -40,6 +40,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 - [Certifications](docs/CERTIFICATIONS.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Machine Learning](docs/ML.md)
+- [Rest design](docs/REST.md)
 
 ## Project Management
 - [PM tools](docs/PM.md)
@@ -59,6 +60,5 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 
 
-
--Free Tools
+## Free Tools
 - [Free Websites](https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can/)
