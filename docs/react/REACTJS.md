@@ -25,6 +25,7 @@ Links related with [React](https://github.com/facebook/react.git)
 - [Typescript](docs/TYPESCRIPT.md)
 - [Forms](docs/FORMS.md)
 - [Testing](docs/TESTING.md)
+- [Hooks](docs/HOOKS.md)
 
 ## General
 - [Beyond React Fest 2018](https://inside.edited.com/beyond-react-fest-18-b201cddf564d)
