@@ -1,6 +1,8 @@
 # Links related with Themes for React
 
 
+## 2020
+- [12 react grid components](https://blog.bitsrc.io/12-react-ui-layout-grid-components-and-libraries-for-2019-16e8aa5d0b08)
 
 
 ## 2019
