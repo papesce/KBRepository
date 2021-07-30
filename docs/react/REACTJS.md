@@ -2,7 +2,7 @@
 
 Links related with [React](https://github.com/facebook/react.git)
 
-## 2020
+## 2021
  - [whats new in react 18](https://www.youtube.com/watch?v=bpVRWrrfM1M)
 ## 2019
  - [react-beatiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
