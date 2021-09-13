@@ -2,6 +2,13 @@
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
 ## 2021
+
+- [docker](https://dzone.com/articles/encounter-with-docker)
+- [monorepo with docker](https://stackoverflow.com/questions/59320343/how-to-build-docker-images-in-a-lerna-monorepo-without-publishing)
+
+- [monorepo yarn docker](https://stackoverflow.com/questions/50215553/how-to-build-a-docker-image-from-a-nodejs-project-in-a-monorepo-with-yarn-worksp)
+
+- [Dockerize node and deploy to heroku](https://dev.to/pacheco/how-to-dockerize-a-node-app-and-deploy-to-heroku-3cch)
 - [Dockerize React app with Nest](https://dev.to/venkat3750/how-to-dockerize-a-react-app-with-nest-js-server-code-4ka)
  - [Dockerize your React app](https://medium.com/bb-tutorials-and-thoughts/dockerizing-react-app-with-nodejs-backend-26352561b0b7)
  - [Monorepos](https://blog.bitsrc.io/11-tools-to-build-a-monorepo-in-2021-7ce904821cc2)
