@@ -1,5 +1,8 @@
 # Links related with packaging / deployment
 
+## 2021
+  - [Kuberneetes esential tools](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+
 ## 2019
  - [Create you own npm package](https://medium.com/medialesson/create-your-own-npm-package-private-or-public-60edc2c42f68)
 

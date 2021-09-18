@@ -1,5 +1,9 @@
 # Javascript Resources
 
+# 2021
+
+[Javascript cheatsheet](https://javascript.plainenglish.io/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
+
 ## General
 - [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/) 
