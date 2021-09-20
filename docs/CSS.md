@@ -1,6 +1,7 @@
 # All About CSS
 
-
+## 2021 
+- [Styled Components guide](https://medium.com/swlh/styled-components-e29204a2fb1a)
 
 -[CSS CheatSheet](https://www.reddit.com/r/web_design/comments/7pbnu6/css_cheat_sheet/)
 

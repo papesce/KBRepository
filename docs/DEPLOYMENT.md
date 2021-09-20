@@ -1,6 +1,7 @@
 # Links related with packaging / deployment
 
 ## 2021
+  - [CI at pinterest](https://medium.com/pinterest-engineering/how-we-designed-our-continuous-integration-system-to-be-more-than-50-faster-b70a59342fe2)
   - [Kuberneetes esential tools](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 
 ## 2019
