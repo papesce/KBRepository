@@ -1,5 +1,7 @@
 # Architecture Resources
 
+# 2021
+ - [Master plan to becoming a SA](https://azeynalli1990.medium.com/master-plan-for-becoming-a-software-architect-be7ba13f0999)
 # 2020
 - [Mean architecture](https://github.com/linnovate/mean)
 - [Mongoose based architecture](https://stackoverflow.com/questions/15454441/mongoose-based-app-architecture/15572522#comment24204434_15572522)
