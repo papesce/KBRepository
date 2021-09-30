@@ -1,7 +1,10 @@
 # Starters for React
 
+
+## 2021
+- [Netflix lattice](https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea)
 ## Syntax
-https://github.com/standard/standard
+- [standard](https://github.com/standard/standard)
 
 ## General
 - [8 tips to build better react apps](https://blog.risingstack.com/8-tips-to-build-better-react-apps-in-2018/)

@@ -1,5 +1,7 @@
 # Career path links
 
+## 2021
+- [Repos to Bookmark](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
 ## General
 - [Resume Make](https://resumake.io)
 - [Work as a freelancer](https://www.reddit.com/r/webdev/comments/7uzgh9/web_developers_who_are_earning_as_freelancershow/)

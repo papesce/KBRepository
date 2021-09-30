@@ -1,6 +1,9 @@
 # Javascript Resources
 
 # 2021
+[Consolee hacks](https://sean-warman.medium.com/best-react-hacks-for-lazy-devs-b44b533fa923)
+[Basics](https://belal-hossain.medium.com/10-critical-things-in-javascript-e2320aaf941d)
+[Good practices](https://blog.codersequity.com/a-complete-guide-to-clean-code-principles-for-javascript-82052c317789)
 
 [Javascript cheatsheet](https://javascript.plainenglish.io/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
 

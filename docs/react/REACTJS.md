@@ -3,6 +3,7 @@
 Links related with [React](https://github.com/facebook/react.git)
 
 ## 2021
+ - [Reeact 18](https://medium.com/stackanatomy/react-18-is-out-this-is-what-you-need-to-know-3a64f443daed)
  - [whats new in react 18](https://www.youtube.com/watch?v=bpVRWrrfM1M)
 ## 2019
  - [react-beatiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
