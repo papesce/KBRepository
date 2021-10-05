@@ -3,6 +3,12 @@
 
 2021
 ----
+- [20 do an dont's for SD](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff)
+- [Algoritms interviews](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
+- [From zero to FB](https://medium.com/@pv.safronov/from-zero-to-fb-offer-and-mentoring-other-people-my-way-to-750-problems-ebc7ef3cb166)
+- [Apple coding interview questions](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
+- [Razorpay interview](https://blog.plxity.co/razorpay-frontend-engineer-interview-experience)
+- [VP Engineering preparation](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d)
 - [how to get hired uber google amazon](https://medium.com/swlh/how-to-get-hired-at-uber-google-amazon-linkedin-microsoft-facebook-etc-4f5a2f159c25)
 - [Write killer resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d)
 - [30 days preparation](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361)

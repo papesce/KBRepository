@@ -1,6 +1,7 @@
 # Career path links
 
 ## 2021
+ -[Backend roadmap](https://vittoriorivabella.medium.com/zero-to-hero-backend-developer-roadmap-2021-8b6985cfe2d)
 - [Repos to Bookmark](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
 ## General
 - [Resume Make](https://resumake.io)

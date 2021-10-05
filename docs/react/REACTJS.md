@@ -3,6 +3,7 @@
 Links related with [React](https://github.com/facebook/react.git)
 
 ## 2021
+ - [2021 Roadmap](https://medium.com/dhiwise/advanced-roadmap-for-react-js-developers-3a40ce4174b9)
  - [Reeact 18](https://medium.com/stackanatomy/react-18-is-out-this-is-what-you-need-to-know-3a64f443daed)
  - [whats new in react 18](https://www.youtube.com/watch?v=bpVRWrrfM1M)
 ## 2019
