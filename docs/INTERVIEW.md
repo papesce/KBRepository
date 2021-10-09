@@ -3,6 +3,11 @@
 
 2021
 ----
+- [Indeed](https://medium.com/@ankitkp88534/indeed-com-sde-i-interview-experience-5681c2cae4d8)
+- [PRAMP interview](https://www.pramp.com/#/)
+- [Tips for innterviews](https://medium.com/javarevisited/preparation-tips-for-interviews-at-faang-5cee4752b33e)
+- [Cracking FAANG as a senior engineer](https://medium.com/@goldsho/cracking-big-tech-faang-as-a-senior-engineer-12-yoe-non-iit-iiit-nit-bits-6c51e5d7f0a2)
+- [Forever learning](https://bytes.swiggy.com/forever-learning-heres-one-software-engineer-s-journey-that-grew-phenomenally-along-with-swiggy-3fe7fabc3793)
 - [20 do an dont's for SD](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff)
 - [Algoritms interviews](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
 - [From zero to FB](https://medium.com/@pv.safronov/from-zero-to-fb-offer-and-mentoring-other-people-my-way-to-750-problems-ebc7ef3cb166)

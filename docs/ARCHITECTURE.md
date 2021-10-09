@@ -1,6 +1,8 @@
 # Architecture Resources
 
 # 2021
+ 
+ - [Systeem design primer](https://github.com/donnemartin/system-design-primer)
  - [API in no time](https://medium.com/techtimes101/no-time-no-money-no-problem-how-you-can-get-web-apis-with-a-zero-dollar-budget-e5be150f93b7)
  - [Microseervices in twitter](https://thinksoftware.medium.com/design-twitter-microservices-architecture-of-twitter-service-996ddd68e1ca)
  - [Patterns](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
