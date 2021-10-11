@@ -1,5 +1,7 @@
 # Links about architecture with react
 
+- [React clean architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
+
  - [What runs a website](https://www.whatruns.com) Site used to know the techonologies behind other projects
 
  - [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
