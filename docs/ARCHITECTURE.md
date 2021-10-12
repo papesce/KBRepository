@@ -1,7 +1,7 @@
 # Architecture Resources
 
 # 2021
- 
+ - [System Design Architecture for hotel](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
  - [Systeem design primer](https://github.com/donnemartin/system-design-primer)
  - [API in no time](https://medium.com/techtimes101/no-time-no-money-no-problem-how-you-can-get-web-apis-with-a-zero-dollar-budget-e5be150f93b7)
  - [Microseervices in twitter](https://thinksoftware.medium.com/design-twitter-microservices-architecture-of-twitter-service-996ddd68e1ca)

@@ -1,6 +1,8 @@
 # Project Managments tools:
 -----
 
+## 2021
+- [Books eevery manager should read](https://medium.com/free-code-camp/books-that-every-engineering-manager-should-read-7a053e296d11)
 ## General
 - [Best Management Tools reddit](https://www.reddit.com/r/projectmanagement/comments/7xjpc0/best_online_project_management_tool/)
 
