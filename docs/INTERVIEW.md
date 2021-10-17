@@ -3,6 +3,8 @@
 
 2021
 ----
+- [Killer resume](https://bloggingsibani.medium.com/make-a-killer-technical-resume-3ed9d72e337c)
+- [Leetcode](https://blog.devgenius.io/is-leetcode-the-best-way-to-prepare-for-interviews-7556ea28644)
 - [Atlassian](https://medium.com/@debaban573/atlassian-software-engineer-interview-experience-ed78377b2539)
 - [Indeed](https://medium.com/@ankitkp88534/indeed-com-sde-i-interview-experience-5681c2cae4d8)
 - [PRAMP interview](https://www.pramp.com/#/)

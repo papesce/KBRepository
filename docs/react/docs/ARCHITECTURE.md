@@ -1,5 +1,10 @@
 # Links about architecture with react
 
+## 2021
+- [React component patterns](https://medium.com/dhiwise/react-component-patterns-805a60b88dba)
+
+## Older
+
 - [React clean architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
 
  - [What runs a website](https://www.whatruns.com) Site used to know the techonologies behind other projects

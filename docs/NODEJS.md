@@ -1,5 +1,7 @@
 # NodeJS resources:
 
+## 2021
+ - [Node architecture](https://chapter247infotech.medium.com/node-js-architecture-and-best-practices-for-node-js-798b3e02742e)
 ## 2020
 - [Monorepo Lerna Yarn](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
 - [CRA-Monorepo](https://github.com/biernacki/cra-monorepo)
