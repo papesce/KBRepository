@@ -3,6 +3,7 @@
 
 2021
 ----
+- [Salary tips](https://medium.com/geekculture/top-7-salary-negotiation-tips-for-software-developers-7f19625588d8)
 - [Killer resume](https://bloggingsibani.medium.com/make-a-killer-technical-resume-3ed9d72e337c)
 - [Leetcode](https://blog.devgenius.io/is-leetcode-the-best-way-to-prepare-for-interviews-7556ea28644)
 - [Atlassian](https://medium.com/@debaban573/atlassian-software-engineer-interview-experience-ed78377b2539)

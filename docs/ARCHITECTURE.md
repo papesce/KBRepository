@@ -1,6 +1,8 @@
 # Architecture Resources
 
 # 2021
+ - [Scaling up apps](https://enlear.academy/how-to-scale-your-web-and-mobile-applications-5be74bf99226)
+ - [System design](https://medium.com/@gupta.samriti1991/my-first-system-design-whatsapp-f59d23660a8c)
  - [System Design Architecture for hotel](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
  - [Systeem design primer](https://github.com/donnemartin/system-design-primer)
  - [API in no time](https://medium.com/techtimes101/no-time-no-money-no-problem-how-you-can-get-web-apis-with-a-zero-dollar-budget-e5be150f93b7)
