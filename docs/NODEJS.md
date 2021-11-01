@@ -1,6 +1,7 @@
 # NodeJS resources:
 
 ## 2021
+ - [Node Practices](https://medium.com/@cambika280/node-js-best-practices-that-every-developer-should-follow-in-2021-22-f00bcacbaafb)
  - [Node architecture](https://chapter247infotech.medium.com/node-js-architecture-and-best-practices-for-node-js-798b3e02742e)
 ## 2020
 - [Monorepo Lerna Yarn](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)

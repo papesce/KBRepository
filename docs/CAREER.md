@@ -1,6 +1,7 @@
 # Career path links
 
 ## 2021
+ - [Will you still hide me when im 50](https://betterprogramming.pub/will-you-still-hire-me-when-im-50-3d4c4d9df9a4)
  -[Backend roadmap](https://vittoriorivabella.medium.com/zero-to-hero-backend-developer-roadmap-2021-8b6985cfe2d)
 - [Repos to Bookmark](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
 ## General
