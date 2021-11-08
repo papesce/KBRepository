@@ -1,7 +1,7 @@
 # Architecture Resources
 
 # 2021
-
+ - [CTO guide to tech stack](https://blog.runx.dev/a-ctos-guide-to-modern-tech-stack-a497d1b56de0)
  - [Scaling up apps](https://enlear.academy/how-to-scale-your-web-and-mobile-applications-5be74bf99226)
  - [System design](https://medium.com/@gupta.samriti1991/my-first-system-design-whatsapp-f59d23660a8c)
  - [System Design Architecture for hotel](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
