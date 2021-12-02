@@ -1,5 +1,6 @@
 
 # 2021
+ - [design trends](https://bootcamp.uxdesign.cc/2021-ui-ux-design-trends-a-rundown-of-whats-hot-this-year-a0129e7d29b1)
   -[Front end design guide google facebook](https://javascript.plainenglish.io/front-end-system-design-guide-9a11381f5e81)
   -[Design systems](https://uxdesign.cc/how-to-build-a-design-system-if-youre-the-only-designer-in-a-startup-f4695d2f4b7f)
   -[Sketching 101](https://blog.prototypr.io/sketching-101-fidelity-8f1507984b04)
