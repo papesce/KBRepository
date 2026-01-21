@@ -1,6 +1,9 @@
 # Knowledge Base Repository
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
+# 2026
+ - [Awesome Claude](https://awesomeclaude.ai/ralph-wiggum)
+
 ## 2021
 - [Happiness](https://medium.com/illumination/why-moving-to-the-almost-happiest-country-on-earth-wont-make-you-happier-dbe5b94a954c)
 - [Work Life Balance](https://medium.com/pragmatic-programmers/older-employees-and-younger-managers-ca61a9415ec5)
