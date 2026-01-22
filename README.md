@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  - [Awesome Claude](https://awesomeclaude.ai/ralph-wiggum)
+ - [Pencil](https://www.pencil.dev)
 
 ## 2021
 - [Happiness](https://medium.com/illumination/why-moving-to-the-almost-happiest-country-on-earth-wont-make-you-happier-dbe5b94a954c)
