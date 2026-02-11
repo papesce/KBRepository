@@ -2,6 +2,8 @@
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
 # 2026
+ ## February
+ - [LMStudio](https://lmstudio.ai/blog/claudecode)
  ## January
  - [CUGA agent](https://github.com/cuga-project/cuga-agent)
  - [Awesome Claude](https://awesomeclaude.ai/ralph-wiggum)
