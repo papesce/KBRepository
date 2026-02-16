@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
+ - [GPT5.3-codex-spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
  - [Mellea](https://github.com/generative-computing/mellea/tree/main)
  - [LMStudio](https://lmstudio.ai/blog/claudecode)
  - [Prism](https://openai.com/index/introducing-prism/)
