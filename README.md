@@ -3,7 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
- = [From Vive Coding to Agentic Coding](https://z.ai/blog/glm-5)
+ - [From Vive Coding to Agentic Coding](https://z.ai/blog/glm-5)
  - [Enterprise Operational Bench LeaderBoard](https://www.kaggle.com/benchmarks/ibm-research/enterprise-ops) 
  - [Quantum gates](https://javafxpert.github.io/grok-bloch/)
  - [GPT5.3-codex-spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
