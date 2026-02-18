@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
+ - [OpenClaw talk](https://lexfridman.com/peter-steinberger/)
  - [Agent skills](https://agentskills.io/home)
  - [Minimax](https://www.minimax.io/news/minimax-m25)
  - [Open Hand Index](https://index.openhands.dev/home)
