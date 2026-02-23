@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
+ - [Leaked prompts](https://github.com/asgeirtj/system_prompts_leaks)
  - [awesome prompts](https://github.com/dontriskit/awesome-ai-system-prompts/tree/main)
  - [OpenClaw](https://github.com/openclaw)
  - [MCP Context forge](https://github.com/IBM/mcp-context-forge)
