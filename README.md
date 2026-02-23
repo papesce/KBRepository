@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
+ - [awesome prompts](https://github.com/dontriskit/awesome-ai-system-prompts/tree/main)
  - [OpenClaw](https://github.com/openclaw)
  - [MCP Context forge](https://github.com/IBM/mcp-context-forge)
  - [OpenClaw talk](https://lexfridman.com/peter-steinberger/)
