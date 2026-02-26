@@ -3,6 +3,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
  ## February
+ - [ChatJimmy](https://chatjimmy.ai)
  - [System Design AI](https://github.com/lak7/devildev)
  - [Leaked prompts](https://github.com/asgeirtj/system_prompts_leaks)
  - [awesome prompts](https://github.com/dontriskit/awesome-ai-system-prompts/tree/main)
