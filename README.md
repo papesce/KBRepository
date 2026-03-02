@@ -2,6 +2,9 @@
 Curated list of links to websites, blogs, articles, tutorials grouped by technology, theme, etc.
 
 # 2026
+
+ ## March
+ - [Perpplexity AI](https://www.perplexity.ai/products/computer)
  ## February
  - [ChatJimmy](https://chatjimmy.ai)
  - [System Design AI](https://github.com/lak7/devildev)
