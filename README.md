@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## March
+ - [LLM Fit](https://github.com/AlexsJones/llmfit)
  - [Perpplexity AI](https://www.perplexity.ai/products/computer)
  ## February
  - [ChatJimmy](https://chatjimmy.ai)
