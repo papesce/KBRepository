@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## March
+ - [Sympphony](https://github.com/openai/symphony)
  - [Neural Engine Mac Hack](https://x.com/AmbsdOP/status/2028457255968874940)
  - [Agentic engineering patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
  - [LLM Fit](https://github.com/AlexsJones/llmfit)
