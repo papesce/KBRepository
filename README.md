@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## March
+ - [Cherny Code](https://github.com/meleantonio/ChernyCode?tab=readme-ov-file#boris-chernys-top-tips)
  - [Autoresearch](https://github.com/karpathy/autoresearch)
  - [Sympphony](https://github.com/openai/symphony)
  - [Neural Engine Mac Hack](https://x.com/AmbsdOP/status/2028457255968874940)
