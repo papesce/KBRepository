@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## March
+ - [Calude Cycles paper](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf)
  - [Agent email](https://agent.email)
  - [BitNet microsoft](https://github.com/microsoft/BitNet)
  - [Cherny Code](https://github.com/meleantonio/ChernyCode?tab=readme-ov-file#boris-chernys-top-tips)
