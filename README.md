@@ -3,6 +3,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
 
+ ## April
+ - [Openclaw ACPX](https://github.com/openclaw/acpx)
+
  ## March
  - [Spec Kit](https://github.com/github/spec-kit)
  - [Calude Cycles paper](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf)
