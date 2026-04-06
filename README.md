@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [Everything claude ecode](https://github.com/affaan-m/everything-claude-code)
  - [Claude Code](https://github.com/anthropics/claude-code)
  - [Openclaw ACPX](https://github.com/openclaw/acpx)
 
