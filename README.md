@@ -4,6 +4,16 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [claw-code](https://github.com/search?q=claw-code)
+ - [OpenClaw](https://github.com/search?q=OpenClaw)
+ - [AI agency (61 agents)](https://github.com/search?q=AI+agency+61+agents)
+ - [Beads](https://github.com/search?q=Beads+AI+agents)
+ - [everything-claude-code](https://github.com/search?q=everything-claude-code)
+ - [antigravity-awesome-skills](https://github.com/search?q=antigravity-awesome-skills)
+ - [Deer-Flow](https://github.com/search?q=Deer-Flow)
+ - [pi-mono](https://github.com/search?q=pi-mono)
+ - [Airi](https://github.com/search?q=Airi+AI)
+ - [OpenViking](https://github.com/search?q=OpenViking+AI)
  - [Dev Rel Skills](https://github.com/psschwei/dev-rel-skills/tree/main)
  - [Everything claude ecode](https://github.com/affaan-m/everything-claude-code)
  - [Claude Code](https://github.com/anthropics/claude-code)
