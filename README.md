@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [Multiple workers in parallel](https://github.com/GoogleCloudPlatform/scion)
  - [Career ops](https://github.com/santifer/career-ops)
  - [liteparse](https://github.com/jerryjliu/liteparse_samples)
  - [Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template)
