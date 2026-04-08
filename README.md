@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [liteparse](https://github.com/jerryjliu/liteparse_samples)
  - [Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template)
  - [claw-code](https://github.com/search?q=claw-code)
  - [OpenClaw](https://github.com/search?q=OpenClaw)
