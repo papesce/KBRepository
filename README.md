@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template)
  - [claw-code](https://github.com/search?q=claw-code)
  - [OpenClaw](https://github.com/search?q=OpenClaw)
  - [AI agency (61 agents)](https://github.com/search?q=AI+agency+61+agents)
