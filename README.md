@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## April
+ - [Claude best practices](https://github.com/shanraisshan/claude-code-best-practice)
  - [Altk-evolve IBM](https://github.com/AgentToolkit/altk-evolve)
  - [Multiple workers in parallel](https://github.com/GoogleCloudPlatform/scion)
  - [Career ops](https://github.com/santifer/career-ops)
