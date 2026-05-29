@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Hermes Agent](https://github.com/nousresearch/hermes-agent)
  - [Cmux](https://github.com/manaflow-ai/cmux)
 
  ## April
