@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Odyseseus](https://github.com/pewdiepie-archdaemon/odysseus)
  - [HeadRoom](https://headroom-docs.vercel.app/docs)
  - [Hermes Agent](https://github.com/nousresearch/hermes-agent)
  - [Cmux](https://github.com/manaflow-ai/cmux)
