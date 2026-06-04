@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [IsProfitable](https://isaiprofitable.com)
  - [Aider](https://aider.chat/#getting-started)
  - [Odyseseus](https://github.com/pewdiepie-archdaemon/odysseus)
  - [HeadRoom](https://headroom-docs.vercel.app/docs)
