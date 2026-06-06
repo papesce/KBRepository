@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Dofek](https://dofek.dev/?utm_source=chatgpt.com)
  - [IsProfitable](https://isaiprofitable.com)
  - [Aider](https://aider.chat/#getting-started)
  - [Odyseseus](https://github.com/pewdiepie-archdaemon/odysseus)
