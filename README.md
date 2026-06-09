@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [AI Job Search](https://github.com/MadsLorentzen/ai-job-search/tree/master)
  - [Claude Code Ultimate guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)
  - [Master claude code in a week](https://github.com/luongnv89/claude-howto)
  - [Dofek](https://dofek.dev/?utm_source=chatgpt.com)
