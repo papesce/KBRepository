@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Claude Commands marketplace](https://github.com/wshobson/commands)
  - [Awesome claude code](https://github.com/hesreallyhim/awesome-claude-code)
  - [Claude commands](https://github.com/qdhenry/Claude-Command-Suite)
  - [AI Job Search](https://github.com/MadsLorentzen/ai-job-search/tree/master)
