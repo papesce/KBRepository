@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Omnigent.ai](https://omnigent.ai)
  - [Clone wars](https://github.com/gorvgoyl/clone-wars)
  - [Token Optimizer](https://github.com/alexgreensh/token-optimizer)
  - [caveman](https://github.com/juliusbrussee/caveman)
