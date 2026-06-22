@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills)
  - [Fusion](https://openrouter.ai/fusion?utm_source=superhuman&utm_medium=newsletter&utm_campaign=the-video-editor-built-for-ai)
  - [ARXIV](https://github.com/blazickjp/arxiv-mcp-server)
  - [Memory](https://github.com/thedotmack/claude-mem)
