@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [CUGA APPS](https://huggingface.co/blog/ibm-research/cuga-apps)
  - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
  - [Brave Search MCP](https://github.com/brave/brave-search-mcp-server)
  - [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills)
