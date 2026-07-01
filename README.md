@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## June
+ - [pi.dev](https://pi.dev)
  - [IBM MCP Context Forge](https://ibm.github.io/mcp-context-forge/latest/#quick-links)
  - [CUGA Apps repo](https://github.com/cuga-project/cuga-apps)
  - [CUGA APPS](https://huggingface.co/blog/ibm-research/cuga-apps)
