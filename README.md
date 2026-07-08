@@ -3,6 +3,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
 
+ ## July
+ - [Awsome-design](https://github.com/VoltAgent/awesome-design-md)
  ## June
  - [pi.dev](https://pi.dev)
  - [IBM MCP Context Forge](https://ibm.github.io/mcp-context-forge/latest/#quick-links)
