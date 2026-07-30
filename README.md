@@ -4,7 +4,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## July
- - [Kimi K3(https://huggingface.co/moonshotai/Kimi-K3)
+ - [omniscience benchmarks](https://artificialanalysis.ai/evaluations/omniscience#aa-omniscience-hallucination-rate)
+ - [Kimi K3](https://huggingface.co/moonshotai/Kimi-K3)
  - [Awsome-design](https://github.com/VoltAgent/awesome-design-md)
  ## June
  - [pi.dev](https://pi.dev)
