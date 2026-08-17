@@ -4,7 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## August
- - [Pi.DEV](https://pi.dev)
+ - [pi.dev](https://pi.dev)
  - [Opensandbox](https://github.com/opensandbox-group/OpenSandbox)
  ## July
  - [omniscience benchmarks](https://artificialanalysis.ai/evaluations/omniscience#aa-omniscience-hallucination-rate)
