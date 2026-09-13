@@ -3,6 +3,8 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
 
+ ## September
+ - [huggingbay](https://huggingbay.xyz/)
  ## August
  - [pi.dev](https://pi.dev)
  - [Opensandbox](https://github.com/opensandbox-group/OpenSandbox)
