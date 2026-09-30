@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## September
+ - [Claude.dev](https://claude.dev)
  - [huggingbay](https://huggingbay.xyz/)
  ## August
  - [pi.dev](https://pi.dev)
