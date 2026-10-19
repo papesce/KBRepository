@@ -3,6 +3,9 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 
 # 2026
 
+
+ ## October
+ - [Orca](https://www.onorca.dev)
  ## September
  - [Claude.dev](https://claude.dev)
  - [huggingbay](https://huggingbay.xyz/)
