@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## November
+ - [Nuance Labs](https://www.nuancelabs.ai)
  - [Artificial Analisys](https://artificialanalysis.ai)
  - [Diagram-Design](https://github.com/cathrynlavery/diagram-design)
  - [The Lean proof of the Riemann Hypothesis, as a treemap](https://pengowray.github.io/riemann-zeta-proof-visualizer/#statement)
