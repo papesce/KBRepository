@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## November
+ - [P=NP live](https://pequalnp.com/live)
  - [Nuance Labs](https://www.nuancelabs.ai)
  - [Artificial Analisys](https://artificialanalysis.ai)
  - [Diagram-Design](https://github.com/cathrynlavery/diagram-design)
