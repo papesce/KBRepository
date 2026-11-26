@@ -4,6 +4,7 @@ Curated list of links to websites, blogs, articles, tutorials grouped by technol
 # 2026
 
  ## November
+ - [State of P=NP](https://mathatlas.app/p-versus-np/the-state-of-play?utm_source=chatgpt.com)
  - [net Merge](https://github.com/net-merge/net-merge)
  - [P=NP live](https://pequalnp.com/live)
  - [Nuance Labs](https://www.nuancelabs.ai)
